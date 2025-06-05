@@ -10,20 +10,23 @@
 
 This test aims to determine the maximum traffic rate that results in 0% packet loss across different packet sizes. By identifying this threshold, we can assess the switch’s forwarding capability and validate its performance under various traffic conditions.
 
-## Test Setup
+## Test topology
 
-This test is designed to be flexible and applicable to various network setups for evaluating traffic loss thresholds. It can be used to assess different configurations, such as one-tier and multi-tier networks. If testing the setup described in `BGP_IPv6_test.md`, ensure the testbed is properly configured by following the procedures outlined in that plan.
+The test is designed to be topology-agnostic. It does not rely on or impose a fixed topology, wiring, or device configuration.
 
-1. **Establish BGP Sessions and Advertise Routes**
-   Follow the steps in the multi-tier BGP test plan to:
-   - Configure the required IPv6 BGP sessions between the DUT and its neighbors.
-   - Advertise the intended set of IPv6 routes to ensure full route visibility.
+To achieve this, we follow the Network Under Test testbed design for the testbed setup. And before running the tests, the tests will read the port configurations on the devices under test and configure the traffic generator accordingly to send the traffic.
 
-2. **Define Full-Mesh Traffic Flows**
-   - Set up full-mesh traffic flows on the traffic generators so that all DUT ports are actively involved.
-   - Target all advertised routes to maximize coverage.
+For more details, please refer to the Network Under Test testbed setup design doc.
 
-Once the setup is complete, proceed with traffic generation, monitoring, and analysis to measure performance and identify potential issues such as traffic loss or imbalance.
+### Traffic setup
+
+This test will use all available ports on the traffic generator defined in the testbed to run the test in order to generate the maximum volume of traffic to stress the devices.
+
+The traffic will be configured as bidirectional all to all.
+
+## Test parameters 
+
+
 
 ## Test Steps
 
