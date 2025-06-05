@@ -26,13 +26,19 @@ The traffic will be configured as bidirectional all to all.
 
 ## Test parameters 
 
+The test needs to support the following parameters:
+
+- `packet_size`: The size of the packets to be sent in the traffic, which supports 64, 128, 256, 512, 1024, 4096 and 8192 bytes.
 
 
 ## Test Steps
 
-1. Set packet size to 8192 bytes and begin testing. Start with 100% of the line rate and check for packet loss. If any traffic flow experiences packet loss, reduce the traffic rate to 10% of the line rate and test again. Continue adjusting the traffic rate using a binary search approach to determine the maximum rate at which 0% packet loss is observed.
-2. Repeat step 3 for packet sizes of 86 bytes, 1536 bytes, and 4096 bytes.
-3. For each of the above results, save the percentile figures to a database via the telemetry interface provided by the SONiC team. An example of how to use the interface is provided in telemetry folder.
+Use the selected packet size to start testing:
+
+1. Start with 100% of the line rate and check for packet loss. 
+2. If any traffic flow experiences packet loss, reduce the traffic rate to 10% of the line rate and test again. 
+3. Continue adjusting the traffic rate using a binary search approach to determine the maximum rate at which 0% packet loss is observed.
+4. Report the threshold via the telemetry interfaces using the metrics definition below.
 
 ## Metrics Processing
 
