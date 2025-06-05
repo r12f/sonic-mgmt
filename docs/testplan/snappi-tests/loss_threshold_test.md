@@ -14,7 +14,7 @@ This test aims to determine the maximum traffic rate that results in 0% packet l
 
 The test is designed to be topology-agnostic. It does not rely on or impose a fixed topology, wiring, or device configuration.
 
-To achieve this, we follow the Network Under Test testbed design for the testbed setup. And before running the tests, the tests will read the port configurations on the devices under test and configure the traffic generator accordingly to send the traffic.
+To achieve this, we follow the Network Under Test testbed design for the testbed setup. In the pretest fixture, the tests will read the port configurations on the devices under test and configure the traffic generator accordingly to send the traffic.
 
 For more details, please refer to the Network Under Test testbed setup design doc.
 
