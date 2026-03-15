@@ -2,6 +2,7 @@
 - name: Deploy virtual NUT topology
   hosts: vm_host
   gather_facts: yes
+  become: yes
   vars_files:
     - group_vars/all/creds.yml
     - group_vars/lab/secrets.yml
