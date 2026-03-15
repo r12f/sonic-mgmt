@@ -1,8 +1,0 @@
----
-- name: Run teardown
-  include_tasks: teardown.yml
-  when: vnut_action | default('deploy') == 'teardown'
-
-- name: Run deploy
-  include_tasks: deploy.yml
-  when: vnut_action | default('deploy') == 'deploy'

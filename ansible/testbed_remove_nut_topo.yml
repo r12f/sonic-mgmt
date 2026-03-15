@@ -6,6 +6,4 @@
     - group_vars/all/creds.yml
     - group_vars/lab/secrets.yml
   roles:
-    - role: testbed/nut-vtopo
-      vars:
-        vnut_action: teardown
+    - role: testbed/nut-vtopo-remove

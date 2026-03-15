@@ -2,7 +2,7 @@
 # Default Docker images (TG container only)
 vnut_ptf_image: "docker-ptf:latest"
 
-# Container prefix (for TG containers)
+# Naming prefix for TG Docker containers
 vnut_container_prefix: "net"
 
 # KVM VM settings
