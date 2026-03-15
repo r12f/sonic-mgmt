@@ -20,7 +20,7 @@ all:
         fanout:
           hosts:
             str-7260-10:
-              ansible_host: 10.250.0.213
+              ansible_host: 10.251.0.13
             str-7260-11:
               ansible_host: 10.251.0.234
             str-msn2700-02:
