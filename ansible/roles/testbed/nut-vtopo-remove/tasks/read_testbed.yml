@@ -9,11 +9,11 @@
   when: testbed_name is not defined or testbed_name | length == 0
 
 - name: Resolve ansible base directory
-  # Note: We use playbook_dir | dirname chain instead of role_path because
-  # role_path is not available when tasks are loaded via include_tasks.
+   dirname chain instead of role_path because| dirname chain instead of role_path because
+  # so we use it directly to locate testbed files and lab data.
   set_fact:
-    vnut_ansible_dir: "{{ playbook_dir | dirname | dirname | dirname }}"
-    vnut_lab_files_dir: "{{ playbook_dir | dirname | dirname | dirname }}/files"
+    vnut_ansible_dir: "{{ playbook_dir }}"
+    vnut_lab_files_dir: "{{ playbook_dir }}/files"
 
 - name: Read testbed YAML file
   set_fact:
