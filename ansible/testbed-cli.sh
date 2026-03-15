@@ -1208,7 +1208,7 @@ function add_vnut_topo
   read_nut_file "${testbed_name}"
 
   ANSIBLE_SCP_IF_SSH=y ansible-playbook -i "${inventory}" \
-      roles/testbed/nut-vtopo/add-vnut-topo.yml \
+      testbed_add_nut_topo.yml \
       --vault-password-file="${passwd}" \
       -e testbed_name="${testbed_name}" \
       -e testbed_file="${tbfile}" \
@@ -1229,7 +1229,7 @@ function remove_vnut_topo
   read_nut_file "${testbed_name}"
 
   ANSIBLE_SCP_IF_SSH=y ansible-playbook -i "${inventory}" \
-      roles/testbed/nut-vtopo/remove-vnut-topo.yml \
+      testbed_remove_nut_topo.yml \
       --vault-password-file="${passwd}" \
       -e testbed_name="${testbed_name}" \
       -e testbed_file="${tbfile}" \
