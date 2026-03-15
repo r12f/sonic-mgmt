@@ -1,0 +1,10 @@
+---
+- name: Deploy virtual NUT topology
+  hosts: vm_host
+  gather_facts: yes
+  vars_files:
+    - defaults/main.yml
+    - ../../../group_vars/all/creds.yml
+    - ../../../group_vars/lab/secrets.yml
+  tasks:
+    - include_tasks: tasks/main.yml
