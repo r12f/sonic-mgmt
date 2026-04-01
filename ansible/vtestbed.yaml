@@ -200,6 +200,23 @@
   auto_recover: 'False'
   comment: Dual-TOR-Mixed testbed
 
+
+- conf-name: vms-kvm-t2-isolated-d128s2
+  group-name: vms6-10
+  topo: t2-isolated-d128s2
+  ptf_image_name: docker-ptf
+  ptf: ptf-10
+  ptf_ip: 10.250.0.120/24
+  ptf_ipv6: fec0::ffff:afb:6/64
+  server: server_1
+  vm_base: VM0100
+  dut:
+    - vlab-t2-01
+  inv_name: veos_vtb
+  auto_recover: 'False'
+  use_converged_peers: true
+  comment: T2 isolated topology with 128 T1s and 2 peer-leafs using converged peers
+
 - conf-name: 8000e-t0
   group-name: vms8-1
   topo: t0

@@ -3,524 +3,142 @@ topology:
     ARISTA01T1:
       vlans:
         - 0
-      vm_offset: 0
-    ARISTA02T1:
-      vlans:
         - 1
-      vm_offset: 1
-    ARISTA03T1:
-      vlans:
         - 2
-      vm_offset: 2
-    ARISTA04T1:
-      vlans:
         - 3
-      vm_offset: 3
-    ARISTA05T1:
-      vlans:
         - 4
-      vm_offset: 4
-    ARISTA06T1:
-      vlans:
         - 5
-      vm_offset: 5
-    ARISTA07T1:
-      vlans:
         - 6
-      vm_offset: 6
-    ARISTA08T1:
-      vlans:
         - 7
-      vm_offset: 7
-    ARISTA09T1:
-      vlans:
         - 8
-      vm_offset: 8
-    ARISTA10T1:
-      vlans:
         - 9
-      vm_offset: 9
-    ARISTA11T1:
-      vlans:
         - 10
-      vm_offset: 10
-    ARISTA12T1:
-      vlans:
         - 11
-      vm_offset: 11
-    ARISTA13T1:
-      vlans:
         - 12
-      vm_offset: 12
-    ARISTA14T1:
-      vlans:
         - 13
-      vm_offset: 13
-    ARISTA15T1:
-      vlans:
         - 14
-      vm_offset: 14
-    ARISTA16T1:
-      vlans:
         - 15
-      vm_offset: 15
-    ARISTA17T1:
-      vlans:
         - 16
-      vm_offset: 16
-    ARISTA18T1:
-      vlans:
         - 17
-      vm_offset: 17
-    ARISTA19T1:
-      vlans:
         - 18
-      vm_offset: 18
-    ARISTA20T1:
-      vlans:
         - 19
-      vm_offset: 19
-    ARISTA21T1:
-      vlans:
         - 20
-      vm_offset: 20
-    ARISTA22T1:
-      vlans:
         - 21
-      vm_offset: 21
-    ARISTA23T1:
-      vlans:
         - 22
-      vm_offset: 22
-    ARISTA24T1:
-      vlans:
         - 23
-      vm_offset: 23
-    ARISTA25T1:
-      vlans:
         - 24
-      vm_offset: 24
-    ARISTA26T1:
-      vlans:
         - 25
-      vm_offset: 25
-    ARISTA27T1:
-      vlans:
         - 26
-      vm_offset: 26
-    ARISTA28T1:
-      vlans:
         - 27
-      vm_offset: 27
-    ARISTA29T1:
-      vlans:
         - 28
-      vm_offset: 28
-    ARISTA30T1:
-      vlans:
         - 29
-      vm_offset: 29
-    ARISTA31T1:
-      vlans:
         - 30
-      vm_offset: 30
-    ARISTA32T1:
-      vlans:
         - 31
-      vm_offset: 31
-    ARISTA33T1:
-      vlans:
         - 32
-      vm_offset: 32
-    ARISTA34T1:
-      vlans:
         - 33
-      vm_offset: 33
-    ARISTA35T1:
-      vlans:
         - 34
-      vm_offset: 34
-    ARISTA36T1:
-      vlans:
         - 35
-      vm_offset: 35
-    ARISTA37T1:
-      vlans:
         - 36
-      vm_offset: 36
-    ARISTA38T1:
-      vlans:
         - 37
-      vm_offset: 37
-    ARISTA39T1:
-      vlans:
         - 38
-      vm_offset: 38
-    ARISTA40T1:
-      vlans:
         - 39
-      vm_offset: 39
-    ARISTA41T1:
-      vlans:
         - 40
-      vm_offset: 40
-    ARISTA42T1:
-      vlans:
         - 41
-      vm_offset: 41
-    ARISTA43T1:
-      vlans:
         - 42
-      vm_offset: 42
-    ARISTA44T1:
-      vlans:
         - 43
-      vm_offset: 43
-    ARISTA45T1:
-      vlans:
         - 44
-      vm_offset: 44
-    ARISTA46T1:
-      vlans:
         - 45
-      vm_offset: 45
-    ARISTA47T1:
-      vlans:
         - 46
-      vm_offset: 46
-    ARISTA48T1:
-      vlans:
         - 47
-      vm_offset: 47
-    ARISTA49T1:
-      vlans:
         - 48
-      vm_offset: 48
-    ARISTA50T1:
-      vlans:
         - 49
-      vm_offset: 49
-    ARISTA51T1:
-      vlans:
         - 50
-      vm_offset: 50
-    ARISTA52T1:
-      vlans:
         - 51
-      vm_offset: 51
-    ARISTA53T1:
-      vlans:
         - 52
-      vm_offset: 52
-    ARISTA54T1:
-      vlans:
         - 53
-      vm_offset: 53
-    ARISTA55T1:
-      vlans:
         - 54
-      vm_offset: 54
-    ARISTA56T1:
-      vlans:
         - 55
-      vm_offset: 55
-    ARISTA57T1:
-      vlans:
         - 56
-      vm_offset: 56
-    ARISTA58T1:
-      vlans:
         - 57
-      vm_offset: 57
-    ARISTA59T1:
-      vlans:
         - 58
-      vm_offset: 58
-    ARISTA60T1:
-      vlans:
         - 59
-      vm_offset: 59
-    ARISTA61T1:
-      vlans:
         - 60
-      vm_offset: 60
-    ARISTA62T1:
-      vlans:
         - 61
-      vm_offset: 61
-    ARISTA63T1:
-      vlans:
         - 62
-      vm_offset: 62
-    ARISTA64T1:
-      vlans:
         - 63
-      vm_offset: 63
-    ARISTA65T1:
-      vlans:
         - 64
-      vm_offset: 64
-    ARISTA66T1:
-      vlans:
         - 65
-      vm_offset: 65
-    ARISTA67T1:
-      vlans:
         - 66
-      vm_offset: 66
-    ARISTA68T1:
-      vlans:
         - 67
-      vm_offset: 67
-    ARISTA69T1:
-      vlans:
         - 68
-      vm_offset: 68
-    ARISTA70T1:
-      vlans:
         - 69
-      vm_offset: 69
-    ARISTA71T1:
-      vlans:
         - 70
-      vm_offset: 70
-    ARISTA72T1:
-      vlans:
         - 71
-      vm_offset: 71
-    ARISTA73T1:
-      vlans:
         - 72
-      vm_offset: 72
-    ARISTA74T1:
-      vlans:
         - 73
-      vm_offset: 73
-    ARISTA75T1:
-      vlans:
         - 74
-      vm_offset: 74
-    ARISTA76T1:
-      vlans:
         - 75
-      vm_offset: 75
-    ARISTA77T1:
-      vlans:
         - 76
-      vm_offset: 76
-    ARISTA78T1:
-      vlans:
         - 77
-      vm_offset: 77
-    ARISTA79T1:
-      vlans:
         - 78
-      vm_offset: 78
-    ARISTA80T1:
-      vlans:
         - 79
-      vm_offset: 79
-    ARISTA81T1:
-      vlans:
         - 80
-      vm_offset: 80
-    ARISTA82T1:
-      vlans:
         - 81
-      vm_offset: 81
-    ARISTA83T1:
-      vlans:
         - 82
-      vm_offset: 82
-    ARISTA84T1:
-      vlans:
         - 83
-      vm_offset: 83
-    ARISTA85T1:
-      vlans:
         - 84
-      vm_offset: 84
-    ARISTA86T1:
-      vlans:
         - 85
-      vm_offset: 85
-    ARISTA87T1:
-      vlans:
         - 86
-      vm_offset: 86
-    ARISTA88T1:
-      vlans:
         - 87
-      vm_offset: 87
-    ARISTA89T1:
-      vlans:
         - 88
-      vm_offset: 88
-    ARISTA90T1:
-      vlans:
         - 89
-      vm_offset: 89
-    ARISTA91T1:
-      vlans:
         - 90
-      vm_offset: 90
-    ARISTA92T1:
-      vlans:
         - 91
-      vm_offset: 91
-    ARISTA93T1:
-      vlans:
         - 92
-      vm_offset: 92
-    ARISTA94T1:
-      vlans:
         - 93
-      vm_offset: 93
-    ARISTA95T1:
-      vlans:
         - 94
-      vm_offset: 94
-    ARISTA96T1:
-      vlans:
         - 95
-      vm_offset: 95
-    ARISTA97T1:
-      vlans:
         - 96
-      vm_offset: 96
-    ARISTA98T1:
-      vlans:
         - 97
-      vm_offset: 97
-    ARISTA99T1:
-      vlans:
         - 98
-      vm_offset: 98
-    ARISTA100T1:
-      vlans:
         - 99
-      vm_offset: 99
-    ARISTA101T1:
-      vlans:
         - 100
-      vm_offset: 100
-    ARISTA102T1:
-      vlans:
         - 101
-      vm_offset: 101
-    ARISTA103T1:
-      vlans:
         - 102
-      vm_offset: 102
-    ARISTA104T1:
-      vlans:
         - 103
-      vm_offset: 103
-    ARISTA105T1:
-      vlans:
         - 104
-      vm_offset: 104
-    ARISTA106T1:
-      vlans:
         - 105
-      vm_offset: 105
-    ARISTA107T1:
-      vlans:
         - 106
-      vm_offset: 106
-    ARISTA108T1:
-      vlans:
         - 107
-      vm_offset: 107
-    ARISTA109T1:
-      vlans:
         - 108
-      vm_offset: 108
-    ARISTA110T1:
-      vlans:
         - 109
-      vm_offset: 109
-    ARISTA111T1:
-      vlans:
         - 110
-      vm_offset: 110
-    ARISTA112T1:
-      vlans:
         - 111
-      vm_offset: 111
-    ARISTA113T1:
-      vlans:
         - 112
-      vm_offset: 112
-    ARISTA114T1:
-      vlans:
         - 113
-      vm_offset: 113
-    ARISTA115T1:
-      vlans:
         - 114
-      vm_offset: 114
-    ARISTA116T1:
-      vlans:
         - 115
-      vm_offset: 115
-    ARISTA117T1:
-      vlans:
         - 116
-      vm_offset: 116
-    ARISTA118T1:
-      vlans:
         - 117
-      vm_offset: 117
-    ARISTA119T1:
-      vlans:
         - 118
-      vm_offset: 118
-    ARISTA120T1:
-      vlans:
         - 119
-      vm_offset: 119
-    ARISTA121T1:
-      vlans:
         - 120
-      vm_offset: 120
-    ARISTA122T1:
-      vlans:
         - 121
-      vm_offset: 121
-    ARISTA123T1:
-      vlans:
         - 122
-      vm_offset: 122
-    ARISTA124T1:
-      vlans:
         - 123
-      vm_offset: 123
-    ARISTA125T1:
-      vlans:
         - 124
-      vm_offset: 124
-    ARISTA126T1:
-      vlans:
         - 125
-      vm_offset: 125
+      vm_offset: 0
     ARISTA127T1:
       vlans:
         - 126
-      vm_offset: 126
-    ARISTA128T1:
-      vlans:
         - 127
-      vm_offset: 127
+      vm_offset: 1
     ARISTA01PT1:
       vlans:
         - 128
-      vm_offset: 128
-    ARISTA02PT1:
-      vlans:
         - 129
-      vm_offset: 129
-
+      vm_offset: 2
 configuration_properties:
   common:
     dut_asn: 4200200000
@@ -536,12 +154,11 @@ configuration_properties:
     swrole: leaf
   peer-leaf:
     swrole: peer-leaf
-
 configuration:
   ARISTA01T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100001
       peers:
@@ -560,8 +177,8 @@ configuration:
       ipv6: fc0a::2/64
   ARISTA02T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100002
       peers:
@@ -580,8 +197,8 @@ configuration:
       ipv6: fc0a::3/64
   ARISTA03T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100003
       peers:
@@ -600,8 +217,8 @@ configuration:
       ipv6: fc0a::4/64
   ARISTA04T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100004
       peers:
@@ -620,8 +237,8 @@ configuration:
       ipv6: fc0a::5/64
   ARISTA05T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100005
       peers:
@@ -640,8 +257,8 @@ configuration:
       ipv6: fc0a::6/64
   ARISTA06T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100006
       peers:
@@ -660,8 +277,8 @@ configuration:
       ipv6: fc0a::7/64
   ARISTA07T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100007
       peers:
@@ -680,8 +297,8 @@ configuration:
       ipv6: fc0a::8/64
   ARISTA08T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100008
       peers:
@@ -700,8 +317,8 @@ configuration:
       ipv6: fc0a::9/64
   ARISTA09T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100009
       peers:
@@ -720,8 +337,8 @@ configuration:
       ipv6: fc0a::a/64
   ARISTA10T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100010
       peers:
@@ -740,8 +357,8 @@ configuration:
       ipv6: fc0a::b/64
   ARISTA11T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100011
       peers:
@@ -760,8 +377,8 @@ configuration:
       ipv6: fc0a::c/64
   ARISTA12T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100012
       peers:
@@ -780,8 +397,8 @@ configuration:
       ipv6: fc0a::d/64
   ARISTA13T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100013
       peers:
@@ -800,8 +417,8 @@ configuration:
       ipv6: fc0a::e/64
   ARISTA14T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100014
       peers:
@@ -820,8 +437,8 @@ configuration:
       ipv6: fc0a::f/64
   ARISTA15T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100015
       peers:
@@ -840,8 +457,8 @@ configuration:
       ipv6: fc0a::10/64
   ARISTA16T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100016
       peers:
@@ -860,8 +477,8 @@ configuration:
       ipv6: fc0a::11/64
   ARISTA17T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100017
       peers:
@@ -880,8 +497,8 @@ configuration:
       ipv6: fc0a::12/64
   ARISTA18T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100018
       peers:
@@ -900,8 +517,8 @@ configuration:
       ipv6: fc0a::13/64
   ARISTA19T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100019
       peers:
@@ -920,8 +537,8 @@ configuration:
       ipv6: fc0a::14/64
   ARISTA20T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100020
       peers:
@@ -940,8 +557,8 @@ configuration:
       ipv6: fc0a::15/64
   ARISTA21T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100021
       peers:
@@ -960,8 +577,8 @@ configuration:
       ipv6: fc0a::16/64
   ARISTA22T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100022
       peers:
@@ -980,8 +597,8 @@ configuration:
       ipv6: fc0a::17/64
   ARISTA23T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100023
       peers:
@@ -1000,8 +617,8 @@ configuration:
       ipv6: fc0a::18/64
   ARISTA24T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100024
       peers:
@@ -1020,8 +637,8 @@ configuration:
       ipv6: fc0a::19/64
   ARISTA25T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100025
       peers:
@@ -1040,8 +657,8 @@ configuration:
       ipv6: fc0a::1a/64
   ARISTA26T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100026
       peers:
@@ -1060,8 +677,8 @@ configuration:
       ipv6: fc0a::1b/64
   ARISTA27T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100027
       peers:
@@ -1080,8 +697,8 @@ configuration:
       ipv6: fc0a::1c/64
   ARISTA28T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100028
       peers:
@@ -1100,8 +717,8 @@ configuration:
       ipv6: fc0a::1d/64
   ARISTA29T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100029
       peers:
@@ -1120,8 +737,8 @@ configuration:
       ipv6: fc0a::1e/64
   ARISTA30T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100030
       peers:
@@ -1140,8 +757,8 @@ configuration:
       ipv6: fc0a::1f/64
   ARISTA31T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100031
       peers:
@@ -1160,8 +777,8 @@ configuration:
       ipv6: fc0a::20/64
   ARISTA32T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100032
       peers:
@@ -1180,8 +797,8 @@ configuration:
       ipv6: fc0a::21/64
   ARISTA33T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100033
       peers:
@@ -1200,8 +817,8 @@ configuration:
       ipv6: fc0a::22/64
   ARISTA34T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100034
       peers:
@@ -1220,8 +837,8 @@ configuration:
       ipv6: fc0a::23/64
   ARISTA35T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100035
       peers:
@@ -1240,8 +857,8 @@ configuration:
       ipv6: fc0a::24/64
   ARISTA36T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100036
       peers:
@@ -1260,8 +877,8 @@ configuration:
       ipv6: fc0a::25/64
   ARISTA37T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100037
       peers:
@@ -1280,8 +897,8 @@ configuration:
       ipv6: fc0a::26/64
   ARISTA38T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100038
       peers:
@@ -1300,8 +917,8 @@ configuration:
       ipv6: fc0a::27/64
   ARISTA39T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100039
       peers:
@@ -1320,8 +937,8 @@ configuration:
       ipv6: fc0a::28/64
   ARISTA40T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100040
       peers:
@@ -1340,8 +957,8 @@ configuration:
       ipv6: fc0a::29/64
   ARISTA41T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100041
       peers:
@@ -1360,8 +977,8 @@ configuration:
       ipv6: fc0a::2a/64
   ARISTA42T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100042
       peers:
@@ -1380,8 +997,8 @@ configuration:
       ipv6: fc0a::2b/64
   ARISTA43T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100043
       peers:
@@ -1400,8 +1017,8 @@ configuration:
       ipv6: fc0a::2c/64
   ARISTA44T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100044
       peers:
@@ -1420,8 +1037,8 @@ configuration:
       ipv6: fc0a::2d/64
   ARISTA45T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100045
       peers:
@@ -1440,8 +1057,8 @@ configuration:
       ipv6: fc0a::2e/64
   ARISTA46T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100046
       peers:
@@ -1460,8 +1077,8 @@ configuration:
       ipv6: fc0a::2f/64
   ARISTA47T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100047
       peers:
@@ -1480,8 +1097,8 @@ configuration:
       ipv6: fc0a::30/64
   ARISTA48T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100048
       peers:
@@ -1500,8 +1117,8 @@ configuration:
       ipv6: fc0a::31/64
   ARISTA49T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100049
       peers:
@@ -1520,8 +1137,8 @@ configuration:
       ipv6: fc0a::32/64
   ARISTA50T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100050
       peers:
@@ -1540,8 +1157,8 @@ configuration:
       ipv6: fc0a::33/64
   ARISTA51T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100051
       peers:
@@ -1560,8 +1177,8 @@ configuration:
       ipv6: fc0a::34/64
   ARISTA52T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100052
       peers:
@@ -1580,8 +1197,8 @@ configuration:
       ipv6: fc0a::35/64
   ARISTA53T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100053
       peers:
@@ -1600,8 +1217,8 @@ configuration:
       ipv6: fc0a::36/64
   ARISTA54T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100054
       peers:
@@ -1620,8 +1237,8 @@ configuration:
       ipv6: fc0a::37/64
   ARISTA55T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100055
       peers:
@@ -1640,8 +1257,8 @@ configuration:
       ipv6: fc0a::38/64
   ARISTA56T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100056
       peers:
@@ -1660,8 +1277,8 @@ configuration:
       ipv6: fc0a::39/64
   ARISTA57T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100057
       peers:
@@ -1680,8 +1297,8 @@ configuration:
       ipv6: fc0a::3a/64
   ARISTA58T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100058
       peers:
@@ -1700,8 +1317,8 @@ configuration:
       ipv6: fc0a::3b/64
   ARISTA59T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100059
       peers:
@@ -1720,8 +1337,8 @@ configuration:
       ipv6: fc0a::3c/64
   ARISTA60T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100060
       peers:
@@ -1740,8 +1357,8 @@ configuration:
       ipv6: fc0a::3d/64
   ARISTA61T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100061
       peers:
@@ -1760,8 +1377,8 @@ configuration:
       ipv6: fc0a::3e/64
   ARISTA62T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100062
       peers:
@@ -1780,8 +1397,8 @@ configuration:
       ipv6: fc0a::3f/64
   ARISTA63T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100063
       peers:
@@ -1800,8 +1417,8 @@ configuration:
       ipv6: fc0a::40/64
   ARISTA64T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100064
       peers:
@@ -1820,8 +1437,8 @@ configuration:
       ipv6: fc0a::41/64
   ARISTA65T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100065
       peers:
@@ -1840,8 +1457,8 @@ configuration:
       ipv6: fc0a::42/64
   ARISTA66T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100066
       peers:
@@ -1860,8 +1477,8 @@ configuration:
       ipv6: fc0a::43/64
   ARISTA67T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100067
       peers:
@@ -1880,8 +1497,8 @@ configuration:
       ipv6: fc0a::44/64
   ARISTA68T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100068
       peers:
@@ -1900,8 +1517,8 @@ configuration:
       ipv6: fc0a::45/64
   ARISTA69T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100069
       peers:
@@ -1920,8 +1537,8 @@ configuration:
       ipv6: fc0a::46/64
   ARISTA70T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100070
       peers:
@@ -1940,8 +1557,8 @@ configuration:
       ipv6: fc0a::47/64
   ARISTA71T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100071
       peers:
@@ -1960,8 +1577,8 @@ configuration:
       ipv6: fc0a::48/64
   ARISTA72T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100072
       peers:
@@ -1980,8 +1597,8 @@ configuration:
       ipv6: fc0a::49/64
   ARISTA73T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100073
       peers:
@@ -2000,8 +1617,8 @@ configuration:
       ipv6: fc0a::4a/64
   ARISTA74T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100074
       peers:
@@ -2020,8 +1637,8 @@ configuration:
       ipv6: fc0a::4b/64
   ARISTA75T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100075
       peers:
@@ -2040,8 +1657,8 @@ configuration:
       ipv6: fc0a::4c/64
   ARISTA76T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100076
       peers:
@@ -2060,8 +1677,8 @@ configuration:
       ipv6: fc0a::4d/64
   ARISTA77T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100077
       peers:
@@ -2080,8 +1697,8 @@ configuration:
       ipv6: fc0a::4e/64
   ARISTA78T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100078
       peers:
@@ -2100,8 +1717,8 @@ configuration:
       ipv6: fc0a::4f/64
   ARISTA79T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100079
       peers:
@@ -2120,8 +1737,8 @@ configuration:
       ipv6: fc0a::50/64
   ARISTA80T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100080
       peers:
@@ -2140,8 +1757,8 @@ configuration:
       ipv6: fc0a::51/64
   ARISTA81T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100081
       peers:
@@ -2160,8 +1777,8 @@ configuration:
       ipv6: fc0a::52/64
   ARISTA82T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100082
       peers:
@@ -2180,8 +1797,8 @@ configuration:
       ipv6: fc0a::53/64
   ARISTA83T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100083
       peers:
@@ -2200,8 +1817,8 @@ configuration:
       ipv6: fc0a::54/64
   ARISTA84T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100084
       peers:
@@ -2220,8 +1837,8 @@ configuration:
       ipv6: fc0a::55/64
   ARISTA85T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100085
       peers:
@@ -2240,8 +1857,8 @@ configuration:
       ipv6: fc0a::56/64
   ARISTA86T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100086
       peers:
@@ -2260,8 +1877,8 @@ configuration:
       ipv6: fc0a::57/64
   ARISTA87T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100087
       peers:
@@ -2280,8 +1897,8 @@ configuration:
       ipv6: fc0a::58/64
   ARISTA88T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100088
       peers:
@@ -2300,8 +1917,8 @@ configuration:
       ipv6: fc0a::59/64
   ARISTA89T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100089
       peers:
@@ -2320,8 +1937,8 @@ configuration:
       ipv6: fc0a::5a/64
   ARISTA90T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100090
       peers:
@@ -2340,8 +1957,8 @@ configuration:
       ipv6: fc0a::5b/64
   ARISTA91T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100091
       peers:
@@ -2360,8 +1977,8 @@ configuration:
       ipv6: fc0a::5c/64
   ARISTA92T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100092
       peers:
@@ -2380,8 +1997,8 @@ configuration:
       ipv6: fc0a::5d/64
   ARISTA93T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100093
       peers:
@@ -2400,8 +2017,8 @@ configuration:
       ipv6: fc0a::5e/64
   ARISTA94T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100094
       peers:
@@ -2420,8 +2037,8 @@ configuration:
       ipv6: fc0a::5f/64
   ARISTA95T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100095
       peers:
@@ -2440,8 +2057,8 @@ configuration:
       ipv6: fc0a::60/64
   ARISTA96T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100096
       peers:
@@ -2460,8 +2077,8 @@ configuration:
       ipv6: fc0a::61/64
   ARISTA97T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100097
       peers:
@@ -2480,8 +2097,8 @@ configuration:
       ipv6: fc0a::62/64
   ARISTA98T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100098
       peers:
@@ -2500,8 +2117,8 @@ configuration:
       ipv6: fc0a::63/64
   ARISTA99T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100099
       peers:
@@ -2520,8 +2137,8 @@ configuration:
       ipv6: fc0a::64/64
   ARISTA100T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100100
       peers:
@@ -2540,8 +2157,8 @@ configuration:
       ipv6: fc0a::65/64
   ARISTA101T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100101
       peers:
@@ -2560,8 +2177,8 @@ configuration:
       ipv6: fc0a::66/64
   ARISTA102T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100102
       peers:
@@ -2580,8 +2197,8 @@ configuration:
       ipv6: fc0a::67/64
   ARISTA103T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100103
       peers:
@@ -2600,8 +2217,8 @@ configuration:
       ipv6: fc0a::68/64
   ARISTA104T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100104
       peers:
@@ -2620,8 +2237,8 @@ configuration:
       ipv6: fc0a::69/64
   ARISTA105T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100105
       peers:
@@ -2640,8 +2257,8 @@ configuration:
       ipv6: fc0a::6a/64
   ARISTA106T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100106
       peers:
@@ -2660,8 +2277,8 @@ configuration:
       ipv6: fc0a::6b/64
   ARISTA107T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100107
       peers:
@@ -2680,8 +2297,8 @@ configuration:
       ipv6: fc0a::6c/64
   ARISTA108T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100108
       peers:
@@ -2700,8 +2317,8 @@ configuration:
       ipv6: fc0a::6d/64
   ARISTA109T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100109
       peers:
@@ -2720,8 +2337,8 @@ configuration:
       ipv6: fc0a::6e/64
   ARISTA110T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100110
       peers:
@@ -2740,8 +2357,8 @@ configuration:
       ipv6: fc0a::6f/64
   ARISTA111T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100111
       peers:
@@ -2760,8 +2377,8 @@ configuration:
       ipv6: fc0a::70/64
   ARISTA112T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100112
       peers:
@@ -2780,8 +2397,8 @@ configuration:
       ipv6: fc0a::71/64
   ARISTA113T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100113
       peers:
@@ -2800,8 +2417,8 @@ configuration:
       ipv6: fc0a::72/64
   ARISTA114T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100114
       peers:
@@ -2820,8 +2437,8 @@ configuration:
       ipv6: fc0a::73/64
   ARISTA115T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100115
       peers:
@@ -2840,8 +2457,8 @@ configuration:
       ipv6: fc0a::74/64
   ARISTA116T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100116
       peers:
@@ -2860,8 +2477,8 @@ configuration:
       ipv6: fc0a::75/64
   ARISTA117T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100117
       peers:
@@ -2880,8 +2497,8 @@ configuration:
       ipv6: fc0a::76/64
   ARISTA118T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100118
       peers:
@@ -2900,8 +2517,8 @@ configuration:
       ipv6: fc0a::77/64
   ARISTA119T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100119
       peers:
@@ -2920,8 +2537,8 @@ configuration:
       ipv6: fc0a::78/64
   ARISTA120T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100120
       peers:
@@ -2940,8 +2557,8 @@ configuration:
       ipv6: fc0a::79/64
   ARISTA121T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100121
       peers:
@@ -2960,8 +2577,8 @@ configuration:
       ipv6: fc0a::7a/64
   ARISTA122T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100122
       peers:
@@ -2980,8 +2597,8 @@ configuration:
       ipv6: fc0a::7b/64
   ARISTA123T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100123
       peers:
@@ -3000,8 +2617,8 @@ configuration:
       ipv6: fc0a::7c/64
   ARISTA124T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100124
       peers:
@@ -3020,8 +2637,8 @@ configuration:
       ipv6: fc0a::7d/64
   ARISTA125T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100125
       peers:
@@ -3040,8 +2657,8 @@ configuration:
       ipv6: fc0a::7e/64
   ARISTA126T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100126
       peers:
@@ -3060,8 +2677,8 @@ configuration:
       ipv6: fc0a::7f/64
   ARISTA127T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100127
       peers:
@@ -3080,8 +2697,8 @@ configuration:
       ipv6: fc0a::80/64
   ARISTA128T1:
     properties:
-    - common
-    - leaf
+      - common
+      - leaf
     bgp:
       asn: 4200100128
       peers:
@@ -3100,8 +2717,8 @@ configuration:
       ipv6: fc0a::81/64
   ARISTA01PT1:
     properties:
-    - common
-    - peer-leaf
+      - common
+      - peer-leaf
     bgp:
       asn: 65001
       peers:
@@ -3120,8 +2737,8 @@ configuration:
       ipv6: fc0a::82/64
   ARISTA02PT1:
     properties:
-    - common
-    - peer-leaf
+      - common
+      - peer-leaf
     bgp:
       asn: 65002
       peers:
@@ -3138,3 +2755,3157 @@ configuration:
     bp_interface:
       ipv4: 10.10.246.131/22
       ipv6: fc0a::83/64
+topo_is_multi_vrf: true
+convergence_data:
+  converged_peers:
+    ARISTA01T1:
+      properties:
+        - common
+        - leaf
+      vrf:
+        ARISTA01T1:
+          Vlan2000:
+            ipv4: 10.10.246.100/31
+            ipv6: fc0a::64/127
+          Ethernet1:
+            ipv4: 10.0.0.1/31
+            ipv6: fc00::2/126
+          Loopback1:
+            ipv4: 100.1.0.1/32
+            ipv6: 2064:100:0:1::/128
+        ARISTA02T1:
+          Vlan2001:
+            ipv4: 10.10.246.102/31
+            ipv6: fc0a::66/127
+          Ethernet2:
+            ipv4: 10.0.0.3/31
+            ipv6: fc00::6/126
+          Loopback2:
+            ipv4: 100.1.0.2/32
+            ipv6: 2064:100:0:2::/128
+        ARISTA03T1:
+          Vlan2002:
+            ipv4: 10.10.246.104/31
+            ipv6: fc0a::68/127
+          Ethernet3:
+            ipv4: 10.0.0.5/31
+            ipv6: fc00::a/126
+          Loopback3:
+            ipv4: 100.1.0.3/32
+            ipv6: 2064:100:0:3::/128
+        ARISTA04T1:
+          Vlan2003:
+            ipv4: 10.10.246.106/31
+            ipv6: fc0a::6a/127
+          Ethernet4:
+            ipv4: 10.0.0.7/31
+            ipv6: fc00::e/126
+          Loopback4:
+            ipv4: 100.1.0.4/32
+            ipv6: 2064:100:0:4::/128
+        ARISTA05T1:
+          Vlan2004:
+            ipv4: 10.10.246.108/31
+            ipv6: fc0a::6c/127
+          Ethernet5:
+            ipv4: 10.0.0.9/31
+            ipv6: fc00::12/126
+          Loopback5:
+            ipv4: 100.1.0.5/32
+            ipv6: 2064:100:0:5::/128
+        ARISTA06T1:
+          Vlan2005:
+            ipv4: 10.10.246.110/31
+            ipv6: fc0a::6e/127
+          Ethernet6:
+            ipv4: 10.0.0.11/31
+            ipv6: fc00::16/126
+          Loopback6:
+            ipv4: 100.1.0.6/32
+            ipv6: 2064:100:0:6::/128
+        ARISTA07T1:
+          Vlan2006:
+            ipv4: 10.10.246.112/31
+            ipv6: fc0a::70/127
+          Ethernet7:
+            ipv4: 10.0.0.13/31
+            ipv6: fc00::1a/126
+          Loopback7:
+            ipv4: 100.1.0.7/32
+            ipv6: 2064:100:0:7::/128
+        ARISTA08T1:
+          Vlan2007:
+            ipv4: 10.10.246.114/31
+            ipv6: fc0a::72/127
+          Ethernet8:
+            ipv4: 10.0.0.15/31
+            ipv6: fc00::1e/126
+          Loopback8:
+            ipv4: 100.1.0.8/32
+            ipv6: 2064:100:0:8::/128
+        ARISTA09T1:
+          Vlan2008:
+            ipv4: 10.10.246.116/31
+            ipv6: fc0a::74/127
+          Ethernet9:
+            ipv4: 10.0.0.17/31
+            ipv6: fc00::22/126
+          Loopback9:
+            ipv4: 100.1.0.9/32
+            ipv6: 2064:100:0:9::/128
+        ARISTA10T1:
+          Vlan2009:
+            ipv4: 10.10.246.118/31
+            ipv6: fc0a::76/127
+          Ethernet10:
+            ipv4: 10.0.0.19/31
+            ipv6: fc00::26/126
+          Loopback10:
+            ipv4: 100.1.0.10/32
+            ipv6: 2064:100:0:a::/128
+        ARISTA11T1:
+          Vlan2010:
+            ipv4: 10.10.246.120/31
+            ipv6: fc0a::78/127
+          Ethernet11:
+            ipv4: 10.0.0.21/31
+            ipv6: fc00::2a/126
+          Loopback11:
+            ipv4: 100.1.0.11/32
+            ipv6: 2064:100:0:b::/128
+        ARISTA12T1:
+          Vlan2011:
+            ipv4: 10.10.246.122/31
+            ipv6: fc0a::7a/127
+          Ethernet12:
+            ipv4: 10.0.0.23/31
+            ipv6: fc00::2e/126
+          Loopback12:
+            ipv4: 100.1.0.12/32
+            ipv6: 2064:100:0:c::/128
+        ARISTA13T1:
+          Vlan2012:
+            ipv4: 10.10.246.124/31
+            ipv6: fc0a::7c/127
+          Ethernet13:
+            ipv4: 10.0.0.25/31
+            ipv6: fc00::32/126
+          Loopback13:
+            ipv4: 100.1.0.13/32
+            ipv6: 2064:100:0:d::/128
+        ARISTA14T1:
+          Vlan2013:
+            ipv4: 10.10.246.126/31
+            ipv6: fc0a::7e/127
+          Ethernet14:
+            ipv4: 10.0.0.27/31
+            ipv6: fc00::36/126
+          Loopback14:
+            ipv4: 100.1.0.14/32
+            ipv6: 2064:100:0:e::/128
+        ARISTA15T1:
+          Vlan2014:
+            ipv4: 10.10.246.128/31
+            ipv6: fc0a::80/127
+          Ethernet15:
+            ipv4: 10.0.0.29/31
+            ipv6: fc00::3a/126
+          Loopback15:
+            ipv4: 100.1.0.15/32
+            ipv6: 2064:100:0:f::/128
+        ARISTA16T1:
+          Vlan2015:
+            ipv4: 10.10.246.130/31
+            ipv6: fc0a::82/127
+          Ethernet16:
+            ipv4: 10.0.0.31/31
+            ipv6: fc00::3e/126
+          Loopback16:
+            ipv4: 100.1.0.16/32
+            ipv6: 2064:100:0:10::/128
+        ARISTA17T1:
+          Vlan2016:
+            ipv4: 10.10.246.132/31
+            ipv6: fc0a::84/127
+          Ethernet17:
+            ipv4: 10.0.0.33/31
+            ipv6: fc00::42/126
+          Loopback17:
+            ipv4: 100.1.0.17/32
+            ipv6: 2064:100:0:11::/128
+        ARISTA18T1:
+          Vlan2017:
+            ipv4: 10.10.246.134/31
+            ipv6: fc0a::86/127
+          Ethernet18:
+            ipv4: 10.0.0.35/31
+            ipv6: fc00::46/126
+          Loopback18:
+            ipv4: 100.1.0.18/32
+            ipv6: 2064:100:0:12::/128
+        ARISTA19T1:
+          Vlan2018:
+            ipv4: 10.10.246.136/31
+            ipv6: fc0a::88/127
+          Ethernet19:
+            ipv4: 10.0.0.37/31
+            ipv6: fc00::4a/126
+          Loopback19:
+            ipv4: 100.1.0.19/32
+            ipv6: 2064:100:0:13::/128
+        ARISTA20T1:
+          Vlan2019:
+            ipv4: 10.10.246.138/31
+            ipv6: fc0a::8a/127
+          Ethernet20:
+            ipv4: 10.0.0.39/31
+            ipv6: fc00::4e/126
+          Loopback20:
+            ipv4: 100.1.0.20/32
+            ipv6: 2064:100:0:14::/128
+        ARISTA21T1:
+          Vlan2020:
+            ipv4: 10.10.246.140/31
+            ipv6: fc0a::8c/127
+          Ethernet21:
+            ipv4: 10.0.0.41/31
+            ipv6: fc00::52/126
+          Loopback21:
+            ipv4: 100.1.0.21/32
+            ipv6: 2064:100:0:15::/128
+        ARISTA22T1:
+          Vlan2021:
+            ipv4: 10.10.246.142/31
+            ipv6: fc0a::8e/127
+          Ethernet22:
+            ipv4: 10.0.0.43/31
+            ipv6: fc00::56/126
+          Loopback22:
+            ipv4: 100.1.0.22/32
+            ipv6: 2064:100:0:16::/128
+        ARISTA23T1:
+          Vlan2022:
+            ipv4: 10.10.246.144/31
+            ipv6: fc0a::90/127
+          Ethernet23:
+            ipv4: 10.0.0.45/31
+            ipv6: fc00::5a/126
+          Loopback23:
+            ipv4: 100.1.0.23/32
+            ipv6: 2064:100:0:17::/128
+        ARISTA24T1:
+          Vlan2023:
+            ipv4: 10.10.246.146/31
+            ipv6: fc0a::92/127
+          Ethernet24:
+            ipv4: 10.0.0.47/31
+            ipv6: fc00::5e/126
+          Loopback24:
+            ipv4: 100.1.0.24/32
+            ipv6: 2064:100:0:18::/128
+        ARISTA25T1:
+          Vlan2024:
+            ipv4: 10.10.246.148/31
+            ipv6: fc0a::94/127
+          Ethernet25:
+            ipv4: 10.0.0.49/31
+            ipv6: fc00::62/126
+          Loopback25:
+            ipv4: 100.1.0.25/32
+            ipv6: 2064:100:0:19::/128
+        ARISTA26T1:
+          Vlan2025:
+            ipv4: 10.10.246.150/31
+            ipv6: fc0a::96/127
+          Ethernet26:
+            ipv4: 10.0.0.51/31
+            ipv6: fc00::66/126
+          Loopback26:
+            ipv4: 100.1.0.26/32
+            ipv6: 2064:100:0:1a::/128
+        ARISTA27T1:
+          Vlan2026:
+            ipv4: 10.10.246.152/31
+            ipv6: fc0a::98/127
+          Ethernet27:
+            ipv4: 10.0.0.53/31
+            ipv6: fc00::6a/126
+          Loopback27:
+            ipv4: 100.1.0.27/32
+            ipv6: 2064:100:0:1b::/128
+        ARISTA28T1:
+          Vlan2027:
+            ipv4: 10.10.246.154/31
+            ipv6: fc0a::9a/127
+          Ethernet28:
+            ipv4: 10.0.0.55/31
+            ipv6: fc00::6e/126
+          Loopback28:
+            ipv4: 100.1.0.28/32
+            ipv6: 2064:100:0:1c::/128
+        ARISTA29T1:
+          Vlan2028:
+            ipv4: 10.10.246.156/31
+            ipv6: fc0a::9c/127
+          Ethernet29:
+            ipv4: 10.0.0.57/31
+            ipv6: fc00::72/126
+          Loopback29:
+            ipv4: 100.1.0.29/32
+            ipv6: 2064:100:0:1d::/128
+        ARISTA30T1:
+          Vlan2029:
+            ipv4: 10.10.246.158/31
+            ipv6: fc0a::9e/127
+          Ethernet30:
+            ipv4: 10.0.0.59/31
+            ipv6: fc00::76/126
+          Loopback30:
+            ipv4: 100.1.0.30/32
+            ipv6: 2064:100:0:1e::/128
+        ARISTA31T1:
+          Vlan2030:
+            ipv4: 10.10.246.160/31
+            ipv6: fc0a::a0/127
+          Ethernet31:
+            ipv4: 10.0.0.61/31
+            ipv6: fc00::7a/126
+          Loopback31:
+            ipv4: 100.1.0.31/32
+            ipv6: 2064:100:0:1f::/128
+        ARISTA32T1:
+          Vlan2031:
+            ipv4: 10.10.246.162/31
+            ipv6: fc0a::a2/127
+          Ethernet32:
+            ipv4: 10.0.0.63/31
+            ipv6: fc00::7e/126
+          Loopback32:
+            ipv4: 100.1.0.32/32
+            ipv6: 2064:100:0:20::/128
+        ARISTA33T1:
+          Vlan2032:
+            ipv4: 10.10.246.164/31
+            ipv6: fc0a::a4/127
+          Ethernet33:
+            ipv4: 10.0.0.65/31
+            ipv6: fc00::82/126
+          Loopback33:
+            ipv4: 100.1.0.33/32
+            ipv6: 2064:100:0:21::/128
+        ARISTA34T1:
+          Vlan2033:
+            ipv4: 10.10.246.166/31
+            ipv6: fc0a::a6/127
+          Ethernet34:
+            ipv4: 10.0.0.67/31
+            ipv6: fc00::86/126
+          Loopback34:
+            ipv4: 100.1.0.34/32
+            ipv6: 2064:100:0:22::/128
+        ARISTA35T1:
+          Vlan2034:
+            ipv4: 10.10.246.168/31
+            ipv6: fc0a::a8/127
+          Ethernet35:
+            ipv4: 10.0.0.69/31
+            ipv6: fc00::8a/126
+          Loopback35:
+            ipv4: 100.1.0.35/32
+            ipv6: 2064:100:0:23::/128
+        ARISTA36T1:
+          Vlan2035:
+            ipv4: 10.10.246.170/31
+            ipv6: fc0a::aa/127
+          Ethernet36:
+            ipv4: 10.0.0.71/31
+            ipv6: fc00::8e/126
+          Loopback36:
+            ipv4: 100.1.0.36/32
+            ipv6: 2064:100:0:24::/128
+        ARISTA37T1:
+          Vlan2036:
+            ipv4: 10.10.246.172/31
+            ipv6: fc0a::ac/127
+          Ethernet37:
+            ipv4: 10.0.0.73/31
+            ipv6: fc00::92/126
+          Loopback37:
+            ipv4: 100.1.0.37/32
+            ipv6: 2064:100:0:25::/128
+        ARISTA38T1:
+          Vlan2037:
+            ipv4: 10.10.246.174/31
+            ipv6: fc0a::ae/127
+          Ethernet38:
+            ipv4: 10.0.0.75/31
+            ipv6: fc00::96/126
+          Loopback38:
+            ipv4: 100.1.0.38/32
+            ipv6: 2064:100:0:26::/128
+        ARISTA39T1:
+          Vlan2038:
+            ipv4: 10.10.246.176/31
+            ipv6: fc0a::b0/127
+          Ethernet39:
+            ipv4: 10.0.0.77/31
+            ipv6: fc00::9a/126
+          Loopback39:
+            ipv4: 100.1.0.39/32
+            ipv6: 2064:100:0:27::/128
+        ARISTA40T1:
+          Vlan2039:
+            ipv4: 10.10.246.178/31
+            ipv6: fc0a::b2/127
+          Ethernet40:
+            ipv4: 10.0.0.79/31
+            ipv6: fc00::9e/126
+          Loopback40:
+            ipv4: 100.1.0.40/32
+            ipv6: 2064:100:0:28::/128
+        ARISTA41T1:
+          Vlan2040:
+            ipv4: 10.10.246.180/31
+            ipv6: fc0a::b4/127
+          Ethernet41:
+            ipv4: 10.0.0.81/31
+            ipv6: fc00::a2/126
+          Loopback41:
+            ipv4: 100.1.0.41/32
+            ipv6: 2064:100:0:29::/128
+        ARISTA42T1:
+          Vlan2041:
+            ipv4: 10.10.246.182/31
+            ipv6: fc0a::b6/127
+          Ethernet42:
+            ipv4: 10.0.0.83/31
+            ipv6: fc00::a6/126
+          Loopback42:
+            ipv4: 100.1.0.42/32
+            ipv6: 2064:100:0:2a::/128
+        ARISTA43T1:
+          Vlan2042:
+            ipv4: 10.10.246.184/31
+            ipv6: fc0a::b8/127
+          Ethernet43:
+            ipv4: 10.0.0.85/31
+            ipv6: fc00::aa/126
+          Loopback43:
+            ipv4: 100.1.0.43/32
+            ipv6: 2064:100:0:2b::/128
+        ARISTA44T1:
+          Vlan2043:
+            ipv4: 10.10.246.186/31
+            ipv6: fc0a::ba/127
+          Ethernet44:
+            ipv4: 10.0.0.87/31
+            ipv6: fc00::ae/126
+          Loopback44:
+            ipv4: 100.1.0.44/32
+            ipv6: 2064:100:0:2c::/128
+        ARISTA45T1:
+          Vlan2044:
+            ipv4: 10.10.246.188/31
+            ipv6: fc0a::bc/127
+          Ethernet45:
+            ipv4: 10.0.0.89/31
+            ipv6: fc00::b2/126
+          Loopback45:
+            ipv4: 100.1.0.45/32
+            ipv6: 2064:100:0:2d::/128
+        ARISTA46T1:
+          Vlan2045:
+            ipv4: 10.10.246.190/31
+            ipv6: fc0a::be/127
+          Ethernet46:
+            ipv4: 10.0.0.91/31
+            ipv6: fc00::b6/126
+          Loopback46:
+            ipv4: 100.1.0.46/32
+            ipv6: 2064:100:0:2e::/128
+        ARISTA47T1:
+          Vlan2046:
+            ipv4: 10.10.246.192/31
+            ipv6: fc0a::c0/127
+          Ethernet47:
+            ipv4: 10.0.0.93/31
+            ipv6: fc00::ba/126
+          Loopback47:
+            ipv4: 100.1.0.47/32
+            ipv6: 2064:100:0:2f::/128
+        ARISTA48T1:
+          Vlan2047:
+            ipv4: 10.10.246.194/31
+            ipv6: fc0a::c2/127
+          Ethernet48:
+            ipv4: 10.0.0.95/31
+            ipv6: fc00::be/126
+          Loopback48:
+            ipv4: 100.1.0.48/32
+            ipv6: 2064:100:0:30::/128
+        ARISTA49T1:
+          Vlan2048:
+            ipv4: 10.10.246.196/31
+            ipv6: fc0a::c4/127
+          Ethernet49:
+            ipv4: 10.0.0.97/31
+            ipv6: fc00::c2/126
+          Loopback49:
+            ipv4: 100.1.0.49/32
+            ipv6: 2064:100:0:31::/128
+        ARISTA50T1:
+          Vlan2049:
+            ipv4: 10.10.246.198/31
+            ipv6: fc0a::c6/127
+          Ethernet50:
+            ipv4: 10.0.0.99/31
+            ipv6: fc00::c6/126
+          Loopback50:
+            ipv4: 100.1.0.50/32
+            ipv6: 2064:100:0:32::/128
+        ARISTA51T1:
+          Vlan2050:
+            ipv4: 10.10.246.200/31
+            ipv6: fc0a::c8/127
+          Ethernet51:
+            ipv4: 10.0.0.101/31
+            ipv6: fc00::ca/126
+          Loopback51:
+            ipv4: 100.1.0.51/32
+            ipv6: 2064:100:0:33::/128
+        ARISTA52T1:
+          Vlan2051:
+            ipv4: 10.10.246.202/31
+            ipv6: fc0a::ca/127
+          Ethernet52:
+            ipv4: 10.0.0.103/31
+            ipv6: fc00::ce/126
+          Loopback52:
+            ipv4: 100.1.0.52/32
+            ipv6: 2064:100:0:34::/128
+        ARISTA53T1:
+          Vlan2052:
+            ipv4: 10.10.246.204/31
+            ipv6: fc0a::cc/127
+          Ethernet53:
+            ipv4: 10.0.0.105/31
+            ipv6: fc00::d2/126
+          Loopback53:
+            ipv4: 100.1.0.53/32
+            ipv6: 2064:100:0:35::/128
+        ARISTA54T1:
+          Vlan2053:
+            ipv4: 10.10.246.206/31
+            ipv6: fc0a::ce/127
+          Ethernet54:
+            ipv4: 10.0.0.107/31
+            ipv6: fc00::d6/126
+          Loopback54:
+            ipv4: 100.1.0.54/32
+            ipv6: 2064:100:0:36::/128
+        ARISTA55T1:
+          Vlan2054:
+            ipv4: 10.10.246.208/31
+            ipv6: fc0a::d0/127
+          Ethernet55:
+            ipv4: 10.0.0.109/31
+            ipv6: fc00::da/126
+          Loopback55:
+            ipv4: 100.1.0.55/32
+            ipv6: 2064:100:0:37::/128
+        ARISTA56T1:
+          Vlan2055:
+            ipv4: 10.10.246.210/31
+            ipv6: fc0a::d2/127
+          Ethernet56:
+            ipv4: 10.0.0.111/31
+            ipv6: fc00::de/126
+          Loopback56:
+            ipv4: 100.1.0.56/32
+            ipv6: 2064:100:0:38::/128
+        ARISTA57T1:
+          Vlan2056:
+            ipv4: 10.10.246.212/31
+            ipv6: fc0a::d4/127
+          Ethernet57:
+            ipv4: 10.0.0.113/31
+            ipv6: fc00::e2/126
+          Loopback57:
+            ipv4: 100.1.0.57/32
+            ipv6: 2064:100:0:39::/128
+        ARISTA58T1:
+          Vlan2057:
+            ipv4: 10.10.246.214/31
+            ipv6: fc0a::d6/127
+          Ethernet58:
+            ipv4: 10.0.0.115/31
+            ipv6: fc00::e6/126
+          Loopback58:
+            ipv4: 100.1.0.58/32
+            ipv6: 2064:100:0:3a::/128
+        ARISTA59T1:
+          Vlan2058:
+            ipv4: 10.10.246.216/31
+            ipv6: fc0a::d8/127
+          Ethernet59:
+            ipv4: 10.0.0.117/31
+            ipv6: fc00::ea/126
+          Loopback59:
+            ipv4: 100.1.0.59/32
+            ipv6: 2064:100:0:3b::/128
+        ARISTA60T1:
+          Vlan2059:
+            ipv4: 10.10.246.218/31
+            ipv6: fc0a::da/127
+          Ethernet60:
+            ipv4: 10.0.0.119/31
+            ipv6: fc00::ee/126
+          Loopback60:
+            ipv4: 100.1.0.60/32
+            ipv6: 2064:100:0:3c::/128
+        ARISTA61T1:
+          Vlan2060:
+            ipv4: 10.10.246.220/31
+            ipv6: fc0a::dc/127
+          Ethernet61:
+            ipv4: 10.0.0.121/31
+            ipv6: fc00::f2/126
+          Loopback61:
+            ipv4: 100.1.0.61/32
+            ipv6: 2064:100:0:3d::/128
+        ARISTA62T1:
+          Vlan2061:
+            ipv4: 10.10.246.222/31
+            ipv6: fc0a::de/127
+          Ethernet62:
+            ipv4: 10.0.0.123/31
+            ipv6: fc00::f6/126
+          Loopback62:
+            ipv4: 100.1.0.62/32
+            ipv6: 2064:100:0:3e::/128
+        ARISTA63T1:
+          Vlan2062:
+            ipv4: 10.10.246.224/31
+            ipv6: fc0a::e0/127
+          Ethernet63:
+            ipv4: 10.0.0.125/31
+            ipv6: fc00::fa/126
+          Loopback63:
+            ipv4: 100.1.0.63/32
+            ipv6: 2064:100:0:3f::/128
+        ARISTA64T1:
+          Vlan2063:
+            ipv4: 10.10.246.226/31
+            ipv6: fc0a::e2/127
+          Ethernet64:
+            ipv4: 10.0.0.127/31
+            ipv6: fc00::fe/126
+          Loopback64:
+            ipv4: 100.1.0.64/32
+            ipv6: 2064:100:0:40::/128
+        ARISTA65T1:
+          Vlan2064:
+            ipv4: 10.10.246.228/31
+            ipv6: fc0a::e4/127
+          Ethernet65:
+            ipv4: 10.0.0.129/31
+            ipv6: fc00::102/126
+          Loopback65:
+            ipv4: 100.1.0.65/32
+            ipv6: 2064:100:0:41::/128
+        ARISTA66T1:
+          Vlan2065:
+            ipv4: 10.10.246.230/31
+            ipv6: fc0a::e6/127
+          Ethernet66:
+            ipv4: 10.0.0.131/31
+            ipv6: fc00::106/126
+          Loopback66:
+            ipv4: 100.1.0.66/32
+            ipv6: 2064:100:0:42::/128
+        ARISTA67T1:
+          Vlan2066:
+            ipv4: 10.10.246.232/31
+            ipv6: fc0a::e8/127
+          Ethernet67:
+            ipv4: 10.0.0.133/31
+            ipv6: fc00::10a/126
+          Loopback67:
+            ipv4: 100.1.0.67/32
+            ipv6: 2064:100:0:43::/128
+        ARISTA68T1:
+          Vlan2067:
+            ipv4: 10.10.246.234/31
+            ipv6: fc0a::ea/127
+          Ethernet68:
+            ipv4: 10.0.0.135/31
+            ipv6: fc00::10e/126
+          Loopback68:
+            ipv4: 100.1.0.68/32
+            ipv6: 2064:100:0:44::/128
+        ARISTA69T1:
+          Vlan2068:
+            ipv4: 10.10.246.236/31
+            ipv6: fc0a::ec/127
+          Ethernet69:
+            ipv4: 10.0.0.137/31
+            ipv6: fc00::112/126
+          Loopback69:
+            ipv4: 100.1.0.69/32
+            ipv6: 2064:100:0:45::/128
+        ARISTA70T1:
+          Vlan2069:
+            ipv4: 10.10.246.238/31
+            ipv6: fc0a::ee/127
+          Ethernet70:
+            ipv4: 10.0.0.139/31
+            ipv6: fc00::116/126
+          Loopback70:
+            ipv4: 100.1.0.70/32
+            ipv6: 2064:100:0:46::/128
+        ARISTA71T1:
+          Vlan2070:
+            ipv4: 10.10.246.240/31
+            ipv6: fc0a::f0/127
+          Ethernet71:
+            ipv4: 10.0.0.141/31
+            ipv6: fc00::11a/126
+          Loopback71:
+            ipv4: 100.1.0.71/32
+            ipv6: 2064:100:0:47::/128
+        ARISTA72T1:
+          Vlan2071:
+            ipv4: 10.10.246.242/31
+            ipv6: fc0a::f2/127
+          Ethernet72:
+            ipv4: 10.0.0.143/31
+            ipv6: fc00::11e/126
+          Loopback72:
+            ipv4: 100.1.0.72/32
+            ipv6: 2064:100:0:48::/128
+        ARISTA73T1:
+          Vlan2072:
+            ipv4: 10.10.246.244/31
+            ipv6: fc0a::f4/127
+          Ethernet73:
+            ipv4: 10.0.0.145/31
+            ipv6: fc00::122/126
+          Loopback73:
+            ipv4: 100.1.0.73/32
+            ipv6: 2064:100:0:49::/128
+        ARISTA74T1:
+          Vlan2073:
+            ipv4: 10.10.246.246/31
+            ipv6: fc0a::f6/127
+          Ethernet74:
+            ipv4: 10.0.0.147/31
+            ipv6: fc00::126/126
+          Loopback74:
+            ipv4: 100.1.0.74/32
+            ipv6: 2064:100:0:4a::/128
+        ARISTA75T1:
+          Vlan2074:
+            ipv4: 10.10.246.248/31
+            ipv6: fc0a::f8/127
+          Ethernet75:
+            ipv4: 10.0.0.149/31
+            ipv6: fc00::12a/126
+          Loopback75:
+            ipv4: 100.1.0.75/32
+            ipv6: 2064:100:0:4b::/128
+        ARISTA76T1:
+          Vlan2075:
+            ipv4: 10.10.246.250/31
+            ipv6: fc0a::fa/127
+          Ethernet76:
+            ipv4: 10.0.0.151/31
+            ipv6: fc00::12e/126
+          Loopback76:
+            ipv4: 100.1.0.76/32
+            ipv6: 2064:100:0:4c::/128
+        ARISTA77T1:
+          Vlan2076:
+            ipv4: 10.10.246.252/31
+            ipv6: fc0a::fc/127
+          Ethernet77:
+            ipv4: 10.0.0.153/31
+            ipv6: fc00::132/126
+          Loopback77:
+            ipv4: 100.1.0.77/32
+            ipv6: 2064:100:0:4d::/128
+        ARISTA78T1:
+          Vlan2077:
+            ipv4: 10.10.246.254/31
+            ipv6: fc0a::fe/127
+          Ethernet78:
+            ipv4: 10.0.0.155/31
+            ipv6: fc00::136/126
+          Loopback78:
+            ipv4: 100.1.0.78/32
+            ipv6: 2064:100:0:4e::/128
+        ARISTA79T1:
+          Vlan2078:
+            ipv4: 10.10.247.0/31
+            ipv6: fc0a::100/127
+          Ethernet79:
+            ipv4: 10.0.0.157/31
+            ipv6: fc00::13a/126
+          Loopback79:
+            ipv4: 100.1.0.79/32
+            ipv6: 2064:100:0:4f::/128
+        ARISTA80T1:
+          Vlan2079:
+            ipv4: 10.10.247.2/31
+            ipv6: fc0a::102/127
+          Ethernet80:
+            ipv4: 10.0.0.159/31
+            ipv6: fc00::13e/126
+          Loopback80:
+            ipv4: 100.1.0.80/32
+            ipv6: 2064:100:0:50::/128
+        ARISTA81T1:
+          Vlan2080:
+            ipv4: 10.10.247.4/31
+            ipv6: fc0a::104/127
+          Ethernet81:
+            ipv4: 10.0.0.161/31
+            ipv6: fc00::142/126
+          Loopback81:
+            ipv4: 100.1.0.81/32
+            ipv6: 2064:100:0:51::/128
+        ARISTA82T1:
+          Vlan2081:
+            ipv4: 10.10.247.6/31
+            ipv6: fc0a::106/127
+          Ethernet82:
+            ipv4: 10.0.0.163/31
+            ipv6: fc00::146/126
+          Loopback82:
+            ipv4: 100.1.0.82/32
+            ipv6: 2064:100:0:52::/128
+        ARISTA83T1:
+          Vlan2082:
+            ipv4: 10.10.247.8/31
+            ipv6: fc0a::108/127
+          Ethernet83:
+            ipv4: 10.0.0.165/31
+            ipv6: fc00::14a/126
+          Loopback83:
+            ipv4: 100.1.0.83/32
+            ipv6: 2064:100:0:53::/128
+        ARISTA84T1:
+          Vlan2083:
+            ipv4: 10.10.247.10/31
+            ipv6: fc0a::10a/127
+          Ethernet84:
+            ipv4: 10.0.0.167/31
+            ipv6: fc00::14e/126
+          Loopback84:
+            ipv4: 100.1.0.84/32
+            ipv6: 2064:100:0:54::/128
+        ARISTA85T1:
+          Vlan2084:
+            ipv4: 10.10.247.12/31
+            ipv6: fc0a::10c/127
+          Ethernet85:
+            ipv4: 10.0.0.169/31
+            ipv6: fc00::152/126
+          Loopback85:
+            ipv4: 100.1.0.85/32
+            ipv6: 2064:100:0:55::/128
+        ARISTA86T1:
+          Vlan2085:
+            ipv4: 10.10.247.14/31
+            ipv6: fc0a::10e/127
+          Ethernet86:
+            ipv4: 10.0.0.171/31
+            ipv6: fc00::156/126
+          Loopback86:
+            ipv4: 100.1.0.86/32
+            ipv6: 2064:100:0:56::/128
+        ARISTA87T1:
+          Vlan2086:
+            ipv4: 10.10.247.16/31
+            ipv6: fc0a::110/127
+          Ethernet87:
+            ipv4: 10.0.0.173/31
+            ipv6: fc00::15a/126
+          Loopback87:
+            ipv4: 100.1.0.87/32
+            ipv6: 2064:100:0:57::/128
+        ARISTA88T1:
+          Vlan2087:
+            ipv4: 10.10.247.18/31
+            ipv6: fc0a::112/127
+          Ethernet88:
+            ipv4: 10.0.0.175/31
+            ipv6: fc00::15e/126
+          Loopback88:
+            ipv4: 100.1.0.88/32
+            ipv6: 2064:100:0:58::/128
+        ARISTA89T1:
+          Vlan2088:
+            ipv4: 10.10.247.20/31
+            ipv6: fc0a::114/127
+          Ethernet89:
+            ipv4: 10.0.0.177/31
+            ipv6: fc00::162/126
+          Loopback89:
+            ipv4: 100.1.0.89/32
+            ipv6: 2064:100:0:59::/128
+        ARISTA90T1:
+          Vlan2089:
+            ipv4: 10.10.247.22/31
+            ipv6: fc0a::116/127
+          Ethernet90:
+            ipv4: 10.0.0.179/31
+            ipv6: fc00::166/126
+          Loopback90:
+            ipv4: 100.1.0.90/32
+            ipv6: 2064:100:0:5a::/128
+        ARISTA91T1:
+          Vlan2090:
+            ipv4: 10.10.247.24/31
+            ipv6: fc0a::118/127
+          Ethernet91:
+            ipv4: 10.0.0.181/31
+            ipv6: fc00::16a/126
+          Loopback91:
+            ipv4: 100.1.0.91/32
+            ipv6: 2064:100:0:5b::/128
+        ARISTA92T1:
+          Vlan2091:
+            ipv4: 10.10.247.26/31
+            ipv6: fc0a::11a/127
+          Ethernet92:
+            ipv4: 10.0.0.183/31
+            ipv6: fc00::16e/126
+          Loopback92:
+            ipv4: 100.1.0.92/32
+            ipv6: 2064:100:0:5c::/128
+        ARISTA93T1:
+          Vlan2092:
+            ipv4: 10.10.247.28/31
+            ipv6: fc0a::11c/127
+          Ethernet93:
+            ipv4: 10.0.0.185/31
+            ipv6: fc00::172/126
+          Loopback93:
+            ipv4: 100.1.0.93/32
+            ipv6: 2064:100:0:5d::/128
+        ARISTA94T1:
+          Vlan2093:
+            ipv4: 10.10.247.30/31
+            ipv6: fc0a::11e/127
+          Ethernet94:
+            ipv4: 10.0.0.187/31
+            ipv6: fc00::176/126
+          Loopback94:
+            ipv4: 100.1.0.94/32
+            ipv6: 2064:100:0:5e::/128
+        ARISTA95T1:
+          Vlan2094:
+            ipv4: 10.10.247.32/31
+            ipv6: fc0a::120/127
+          Ethernet95:
+            ipv4: 10.0.0.189/31
+            ipv6: fc00::17a/126
+          Loopback95:
+            ipv4: 100.1.0.95/32
+            ipv6: 2064:100:0:5f::/128
+        ARISTA96T1:
+          Vlan2095:
+            ipv4: 10.10.247.34/31
+            ipv6: fc0a::122/127
+          Ethernet96:
+            ipv4: 10.0.0.191/31
+            ipv6: fc00::17e/126
+          Loopback96:
+            ipv4: 100.1.0.96/32
+            ipv6: 2064:100:0:60::/128
+        ARISTA97T1:
+          Vlan2096:
+            ipv4: 10.10.247.36/31
+            ipv6: fc0a::124/127
+          Ethernet97:
+            ipv4: 10.0.0.193/31
+            ipv6: fc00::182/126
+          Loopback97:
+            ipv4: 100.1.0.97/32
+            ipv6: 2064:100:0:61::/128
+        ARISTA98T1:
+          Vlan2097:
+            ipv4: 10.10.247.38/31
+            ipv6: fc0a::126/127
+          Ethernet98:
+            ipv4: 10.0.0.195/31
+            ipv6: fc00::186/126
+          Loopback98:
+            ipv4: 100.1.0.98/32
+            ipv6: 2064:100:0:62::/128
+        ARISTA99T1:
+          Vlan2098:
+            ipv4: 10.10.247.40/31
+            ipv6: fc0a::128/127
+          Ethernet99:
+            ipv4: 10.0.0.197/31
+            ipv6: fc00::18a/126
+          Loopback99:
+            ipv4: 100.1.0.99/32
+            ipv6: 2064:100:0:63::/128
+        ARISTA100T1:
+          Vlan2099:
+            ipv4: 10.10.247.42/31
+            ipv6: fc0a::12a/127
+          Ethernet100:
+            ipv4: 10.0.0.199/31
+            ipv6: fc00::18e/126
+          Loopback100:
+            ipv4: 100.1.0.100/32
+            ipv6: 2064:100:0:64::/128
+        ARISTA101T1:
+          Vlan2100:
+            ipv4: 10.10.247.44/31
+            ipv6: fc0a::12c/127
+          Ethernet101:
+            ipv4: 10.0.0.201/31
+            ipv6: fc00::192/126
+          Loopback101:
+            ipv4: 100.1.0.101/32
+            ipv6: 2064:100:0:65::/128
+        ARISTA102T1:
+          Vlan2101:
+            ipv4: 10.10.247.46/31
+            ipv6: fc0a::12e/127
+          Ethernet102:
+            ipv4: 10.0.0.203/31
+            ipv6: fc00::196/126
+          Loopback102:
+            ipv4: 100.1.0.102/32
+            ipv6: 2064:100:0:66::/128
+        ARISTA103T1:
+          Vlan2102:
+            ipv4: 10.10.247.48/31
+            ipv6: fc0a::130/127
+          Ethernet103:
+            ipv4: 10.0.0.205/31
+            ipv6: fc00::19a/126
+          Loopback103:
+            ipv4: 100.1.0.103/32
+            ipv6: 2064:100:0:67::/128
+        ARISTA104T1:
+          Vlan2103:
+            ipv4: 10.10.247.50/31
+            ipv6: fc0a::132/127
+          Ethernet104:
+            ipv4: 10.0.0.207/31
+            ipv6: fc00::19e/126
+          Loopback104:
+            ipv4: 100.1.0.104/32
+            ipv6: 2064:100:0:68::/128
+        ARISTA105T1:
+          Vlan2104:
+            ipv4: 10.10.247.52/31
+            ipv6: fc0a::134/127
+          Ethernet105:
+            ipv4: 10.0.0.209/31
+            ipv6: fc00::1a2/126
+          Loopback105:
+            ipv4: 100.1.0.105/32
+            ipv6: 2064:100:0:69::/128
+        ARISTA106T1:
+          Vlan2105:
+            ipv4: 10.10.247.54/31
+            ipv6: fc0a::136/127
+          Ethernet106:
+            ipv4: 10.0.0.211/31
+            ipv6: fc00::1a6/126
+          Loopback106:
+            ipv4: 100.1.0.106/32
+            ipv6: 2064:100:0:6a::/128
+        ARISTA107T1:
+          Vlan2106:
+            ipv4: 10.10.247.56/31
+            ipv6: fc0a::138/127
+          Ethernet107:
+            ipv4: 10.0.0.213/31
+            ipv6: fc00::1aa/126
+          Loopback107:
+            ipv4: 100.1.0.107/32
+            ipv6: 2064:100:0:6b::/128
+        ARISTA108T1:
+          Vlan2107:
+            ipv4: 10.10.247.58/31
+            ipv6: fc0a::13a/127
+          Ethernet108:
+            ipv4: 10.0.0.215/31
+            ipv6: fc00::1ae/126
+          Loopback108:
+            ipv4: 100.1.0.108/32
+            ipv6: 2064:100:0:6c::/128
+        ARISTA109T1:
+          Vlan2108:
+            ipv4: 10.10.247.60/31
+            ipv6: fc0a::13c/127
+          Ethernet109:
+            ipv4: 10.0.0.217/31
+            ipv6: fc00::1b2/126
+          Loopback109:
+            ipv4: 100.1.0.109/32
+            ipv6: 2064:100:0:6d::/128
+        ARISTA110T1:
+          Vlan2109:
+            ipv4: 10.10.247.62/31
+            ipv6: fc0a::13e/127
+          Ethernet110:
+            ipv4: 10.0.0.219/31
+            ipv6: fc00::1b6/126
+          Loopback110:
+            ipv4: 100.1.0.110/32
+            ipv6: 2064:100:0:6e::/128
+        ARISTA111T1:
+          Vlan2110:
+            ipv4: 10.10.247.64/31
+            ipv6: fc0a::140/127
+          Ethernet111:
+            ipv4: 10.0.0.221/31
+            ipv6: fc00::1ba/126
+          Loopback111:
+            ipv4: 100.1.0.111/32
+            ipv6: 2064:100:0:6f::/128
+        ARISTA112T1:
+          Vlan2111:
+            ipv4: 10.10.247.66/31
+            ipv6: fc0a::142/127
+          Ethernet112:
+            ipv4: 10.0.0.223/31
+            ipv6: fc00::1be/126
+          Loopback112:
+            ipv4: 100.1.0.112/32
+            ipv6: 2064:100:0:70::/128
+        ARISTA113T1:
+          Vlan2112:
+            ipv4: 10.10.247.68/31
+            ipv6: fc0a::144/127
+          Ethernet113:
+            ipv4: 10.0.0.225/31
+            ipv6: fc00::1c2/126
+          Loopback113:
+            ipv4: 100.1.0.113/32
+            ipv6: 2064:100:0:71::/128
+        ARISTA114T1:
+          Vlan2113:
+            ipv4: 10.10.247.70/31
+            ipv6: fc0a::146/127
+          Ethernet114:
+            ipv4: 10.0.0.227/31
+            ipv6: fc00::1c6/126
+          Loopback114:
+            ipv4: 100.1.0.114/32
+            ipv6: 2064:100:0:72::/128
+        ARISTA115T1:
+          Vlan2114:
+            ipv4: 10.10.247.72/31
+            ipv6: fc0a::148/127
+          Ethernet115:
+            ipv4: 10.0.0.229/31
+            ipv6: fc00::1ca/126
+          Loopback115:
+            ipv4: 100.1.0.115/32
+            ipv6: 2064:100:0:73::/128
+        ARISTA116T1:
+          Vlan2115:
+            ipv4: 10.10.247.74/31
+            ipv6: fc0a::14a/127
+          Ethernet116:
+            ipv4: 10.0.0.231/31
+            ipv6: fc00::1ce/126
+          Loopback116:
+            ipv4: 100.1.0.116/32
+            ipv6: 2064:100:0:74::/128
+        ARISTA117T1:
+          Vlan2116:
+            ipv4: 10.10.247.76/31
+            ipv6: fc0a::14c/127
+          Ethernet117:
+            ipv4: 10.0.0.233/31
+            ipv6: fc00::1d2/126
+          Loopback117:
+            ipv4: 100.1.0.117/32
+            ipv6: 2064:100:0:75::/128
+        ARISTA118T1:
+          Vlan2117:
+            ipv4: 10.10.247.78/31
+            ipv6: fc0a::14e/127
+          Ethernet118:
+            ipv4: 10.0.0.235/31
+            ipv6: fc00::1d6/126
+          Loopback118:
+            ipv4: 100.1.0.118/32
+            ipv6: 2064:100:0:76::/128
+        ARISTA119T1:
+          Vlan2118:
+            ipv4: 10.10.247.80/31
+            ipv6: fc0a::150/127
+          Ethernet119:
+            ipv4: 10.0.0.237/31
+            ipv6: fc00::1da/126
+          Loopback119:
+            ipv4: 100.1.0.119/32
+            ipv6: 2064:100:0:77::/128
+        ARISTA120T1:
+          Vlan2119:
+            ipv4: 10.10.247.82/31
+            ipv6: fc0a::152/127
+          Ethernet120:
+            ipv4: 10.0.0.239/31
+            ipv6: fc00::1de/126
+          Loopback120:
+            ipv4: 100.1.0.120/32
+            ipv6: 2064:100:0:78::/128
+        ARISTA121T1:
+          Vlan2120:
+            ipv4: 10.10.247.84/31
+            ipv6: fc0a::154/127
+          Ethernet121:
+            ipv4: 10.0.0.241/31
+            ipv6: fc00::1e2/126
+          Loopback121:
+            ipv4: 100.1.0.121/32
+            ipv6: 2064:100:0:79::/128
+        ARISTA122T1:
+          Vlan2121:
+            ipv4: 10.10.247.86/31
+            ipv6: fc0a::156/127
+          Ethernet122:
+            ipv4: 10.0.0.243/31
+            ipv6: fc00::1e6/126
+          Loopback122:
+            ipv4: 100.1.0.122/32
+            ipv6: 2064:100:0:7a::/128
+        ARISTA123T1:
+          Vlan2122:
+            ipv4: 10.10.247.88/31
+            ipv6: fc0a::158/127
+          Ethernet123:
+            ipv4: 10.0.0.245/31
+            ipv6: fc00::1ea/126
+          Loopback123:
+            ipv4: 100.1.0.123/32
+            ipv6: 2064:100:0:7b::/128
+        ARISTA124T1:
+          Vlan2123:
+            ipv4: 10.10.247.90/31
+            ipv6: fc0a::15a/127
+          Ethernet124:
+            ipv4: 10.0.0.247/31
+            ipv6: fc00::1ee/126
+          Loopback124:
+            ipv4: 100.1.0.124/32
+            ipv6: 2064:100:0:7c::/128
+        ARISTA125T1:
+          Vlan2124:
+            ipv4: 10.10.247.92/31
+            ipv6: fc0a::15c/127
+          Ethernet125:
+            ipv4: 10.0.0.249/31
+            ipv6: fc00::1f2/126
+          Loopback125:
+            ipv4: 100.1.0.125/32
+            ipv6: 2064:100:0:7d::/128
+        ARISTA126T1:
+          Vlan2125:
+            ipv4: 10.10.247.94/31
+            ipv6: fc0a::15e/127
+          Ethernet126:
+            ipv4: 10.0.0.251/31
+            ipv6: fc00::1f6/126
+          Loopback126:
+            ipv4: 100.1.0.126/32
+            ipv6: 2064:100:0:7e::/128
+      bgp:
+        asn: 4200100001
+      intf_mapping:
+        ARISTA01T1:
+          offset: 0
+          orig_intf_map:
+            Ethernet1: Ethernet1
+            Loopback0: Loopback1
+        ARISTA02T1:
+          offset: 1
+          orig_intf_map:
+            Ethernet1: Ethernet2
+            Loopback0: Loopback2
+        ARISTA03T1:
+          offset: 2
+          orig_intf_map:
+            Ethernet1: Ethernet3
+            Loopback0: Loopback3
+        ARISTA04T1:
+          offset: 3
+          orig_intf_map:
+            Ethernet1: Ethernet4
+            Loopback0: Loopback4
+        ARISTA05T1:
+          offset: 4
+          orig_intf_map:
+            Ethernet1: Ethernet5
+            Loopback0: Loopback5
+        ARISTA06T1:
+          offset: 5
+          orig_intf_map:
+            Ethernet1: Ethernet6
+            Loopback0: Loopback6
+        ARISTA07T1:
+          offset: 6
+          orig_intf_map:
+            Ethernet1: Ethernet7
+            Loopback0: Loopback7
+        ARISTA08T1:
+          offset: 7
+          orig_intf_map:
+            Ethernet1: Ethernet8
+            Loopback0: Loopback8
+        ARISTA09T1:
+          offset: 8
+          orig_intf_map:
+            Ethernet1: Ethernet9
+            Loopback0: Loopback9
+        ARISTA10T1:
+          offset: 9
+          orig_intf_map:
+            Ethernet1: Ethernet10
+            Loopback0: Loopback10
+        ARISTA11T1:
+          offset: 10
+          orig_intf_map:
+            Ethernet1: Ethernet11
+            Loopback0: Loopback11
+        ARISTA12T1:
+          offset: 11
+          orig_intf_map:
+            Ethernet1: Ethernet12
+            Loopback0: Loopback12
+        ARISTA13T1:
+          offset: 12
+          orig_intf_map:
+            Ethernet1: Ethernet13
+            Loopback0: Loopback13
+        ARISTA14T1:
+          offset: 13
+          orig_intf_map:
+            Ethernet1: Ethernet14
+            Loopback0: Loopback14
+        ARISTA15T1:
+          offset: 14
+          orig_intf_map:
+            Ethernet1: Ethernet15
+            Loopback0: Loopback15
+        ARISTA16T1:
+          offset: 15
+          orig_intf_map:
+            Ethernet1: Ethernet16
+            Loopback0: Loopback16
+        ARISTA17T1:
+          offset: 16
+          orig_intf_map:
+            Ethernet1: Ethernet17
+            Loopback0: Loopback17
+        ARISTA18T1:
+          offset: 17
+          orig_intf_map:
+            Ethernet1: Ethernet18
+            Loopback0: Loopback18
+        ARISTA19T1:
+          offset: 18
+          orig_intf_map:
+            Ethernet1: Ethernet19
+            Loopback0: Loopback19
+        ARISTA20T1:
+          offset: 19
+          orig_intf_map:
+            Ethernet1: Ethernet20
+            Loopback0: Loopback20
+        ARISTA21T1:
+          offset: 20
+          orig_intf_map:
+            Ethernet1: Ethernet21
+            Loopback0: Loopback21
+        ARISTA22T1:
+          offset: 21
+          orig_intf_map:
+            Ethernet1: Ethernet22
+            Loopback0: Loopback22
+        ARISTA23T1:
+          offset: 22
+          orig_intf_map:
+            Ethernet1: Ethernet23
+            Loopback0: Loopback23
+        ARISTA24T1:
+          offset: 23
+          orig_intf_map:
+            Ethernet1: Ethernet24
+            Loopback0: Loopback24
+        ARISTA25T1:
+          offset: 24
+          orig_intf_map:
+            Ethernet1: Ethernet25
+            Loopback0: Loopback25
+        ARISTA26T1:
+          offset: 25
+          orig_intf_map:
+            Ethernet1: Ethernet26
+            Loopback0: Loopback26
+        ARISTA27T1:
+          offset: 26
+          orig_intf_map:
+            Ethernet1: Ethernet27
+            Loopback0: Loopback27
+        ARISTA28T1:
+          offset: 27
+          orig_intf_map:
+            Ethernet1: Ethernet28
+            Loopback0: Loopback28
+        ARISTA29T1:
+          offset: 28
+          orig_intf_map:
+            Ethernet1: Ethernet29
+            Loopback0: Loopback29
+        ARISTA30T1:
+          offset: 29
+          orig_intf_map:
+            Ethernet1: Ethernet30
+            Loopback0: Loopback30
+        ARISTA31T1:
+          offset: 30
+          orig_intf_map:
+            Ethernet1: Ethernet31
+            Loopback0: Loopback31
+        ARISTA32T1:
+          offset: 31
+          orig_intf_map:
+            Ethernet1: Ethernet32
+            Loopback0: Loopback32
+        ARISTA33T1:
+          offset: 32
+          orig_intf_map:
+            Ethernet1: Ethernet33
+            Loopback0: Loopback33
+        ARISTA34T1:
+          offset: 33
+          orig_intf_map:
+            Ethernet1: Ethernet34
+            Loopback0: Loopback34
+        ARISTA35T1:
+          offset: 34
+          orig_intf_map:
+            Ethernet1: Ethernet35
+            Loopback0: Loopback35
+        ARISTA36T1:
+          offset: 35
+          orig_intf_map:
+            Ethernet1: Ethernet36
+            Loopback0: Loopback36
+        ARISTA37T1:
+          offset: 36
+          orig_intf_map:
+            Ethernet1: Ethernet37
+            Loopback0: Loopback37
+        ARISTA38T1:
+          offset: 37
+          orig_intf_map:
+            Ethernet1: Ethernet38
+            Loopback0: Loopback38
+        ARISTA39T1:
+          offset: 38
+          orig_intf_map:
+            Ethernet1: Ethernet39
+            Loopback0: Loopback39
+        ARISTA40T1:
+          offset: 39
+          orig_intf_map:
+            Ethernet1: Ethernet40
+            Loopback0: Loopback40
+        ARISTA41T1:
+          offset: 40
+          orig_intf_map:
+            Ethernet1: Ethernet41
+            Loopback0: Loopback41
+        ARISTA42T1:
+          offset: 41
+          orig_intf_map:
+            Ethernet1: Ethernet42
+            Loopback0: Loopback42
+        ARISTA43T1:
+          offset: 42
+          orig_intf_map:
+            Ethernet1: Ethernet43
+            Loopback0: Loopback43
+        ARISTA44T1:
+          offset: 43
+          orig_intf_map:
+            Ethernet1: Ethernet44
+            Loopback0: Loopback44
+        ARISTA45T1:
+          offset: 44
+          orig_intf_map:
+            Ethernet1: Ethernet45
+            Loopback0: Loopback45
+        ARISTA46T1:
+          offset: 45
+          orig_intf_map:
+            Ethernet1: Ethernet46
+            Loopback0: Loopback46
+        ARISTA47T1:
+          offset: 46
+          orig_intf_map:
+            Ethernet1: Ethernet47
+            Loopback0: Loopback47
+        ARISTA48T1:
+          offset: 47
+          orig_intf_map:
+            Ethernet1: Ethernet48
+            Loopback0: Loopback48
+        ARISTA49T1:
+          offset: 48
+          orig_intf_map:
+            Ethernet1: Ethernet49
+            Loopback0: Loopback49
+        ARISTA50T1:
+          offset: 49
+          orig_intf_map:
+            Ethernet1: Ethernet50
+            Loopback0: Loopback50
+        ARISTA51T1:
+          offset: 50
+          orig_intf_map:
+            Ethernet1: Ethernet51
+            Loopback0: Loopback51
+        ARISTA52T1:
+          offset: 51
+          orig_intf_map:
+            Ethernet1: Ethernet52
+            Loopback0: Loopback52
+        ARISTA53T1:
+          offset: 52
+          orig_intf_map:
+            Ethernet1: Ethernet53
+            Loopback0: Loopback53
+        ARISTA54T1:
+          offset: 53
+          orig_intf_map:
+            Ethernet1: Ethernet54
+            Loopback0: Loopback54
+        ARISTA55T1:
+          offset: 54
+          orig_intf_map:
+            Ethernet1: Ethernet55
+            Loopback0: Loopback55
+        ARISTA56T1:
+          offset: 55
+          orig_intf_map:
+            Ethernet1: Ethernet56
+            Loopback0: Loopback56
+        ARISTA57T1:
+          offset: 56
+          orig_intf_map:
+            Ethernet1: Ethernet57
+            Loopback0: Loopback57
+        ARISTA58T1:
+          offset: 57
+          orig_intf_map:
+            Ethernet1: Ethernet58
+            Loopback0: Loopback58
+        ARISTA59T1:
+          offset: 58
+          orig_intf_map:
+            Ethernet1: Ethernet59
+            Loopback0: Loopback59
+        ARISTA60T1:
+          offset: 59
+          orig_intf_map:
+            Ethernet1: Ethernet60
+            Loopback0: Loopback60
+        ARISTA61T1:
+          offset: 60
+          orig_intf_map:
+            Ethernet1: Ethernet61
+            Loopback0: Loopback61
+        ARISTA62T1:
+          offset: 61
+          orig_intf_map:
+            Ethernet1: Ethernet62
+            Loopback0: Loopback62
+        ARISTA63T1:
+          offset: 62
+          orig_intf_map:
+            Ethernet1: Ethernet63
+            Loopback0: Loopback63
+        ARISTA64T1:
+          offset: 63
+          orig_intf_map:
+            Ethernet1: Ethernet64
+            Loopback0: Loopback64
+        ARISTA65T1:
+          offset: 64
+          orig_intf_map:
+            Ethernet1: Ethernet65
+            Loopback0: Loopback65
+        ARISTA66T1:
+          offset: 65
+          orig_intf_map:
+            Ethernet1: Ethernet66
+            Loopback0: Loopback66
+        ARISTA67T1:
+          offset: 66
+          orig_intf_map:
+            Ethernet1: Ethernet67
+            Loopback0: Loopback67
+        ARISTA68T1:
+          offset: 67
+          orig_intf_map:
+            Ethernet1: Ethernet68
+            Loopback0: Loopback68
+        ARISTA69T1:
+          offset: 68
+          orig_intf_map:
+            Ethernet1: Ethernet69
+            Loopback0: Loopback69
+        ARISTA70T1:
+          offset: 69
+          orig_intf_map:
+            Ethernet1: Ethernet70
+            Loopback0: Loopback70
+        ARISTA71T1:
+          offset: 70
+          orig_intf_map:
+            Ethernet1: Ethernet71
+            Loopback0: Loopback71
+        ARISTA72T1:
+          offset: 71
+          orig_intf_map:
+            Ethernet1: Ethernet72
+            Loopback0: Loopback72
+        ARISTA73T1:
+          offset: 72
+          orig_intf_map:
+            Ethernet1: Ethernet73
+            Loopback0: Loopback73
+        ARISTA74T1:
+          offset: 73
+          orig_intf_map:
+            Ethernet1: Ethernet74
+            Loopback0: Loopback74
+        ARISTA75T1:
+          offset: 74
+          orig_intf_map:
+            Ethernet1: Ethernet75
+            Loopback0: Loopback75
+        ARISTA76T1:
+          offset: 75
+          orig_intf_map:
+            Ethernet1: Ethernet76
+            Loopback0: Loopback76
+        ARISTA77T1:
+          offset: 76
+          orig_intf_map:
+            Ethernet1: Ethernet77
+            Loopback0: Loopback77
+        ARISTA78T1:
+          offset: 77
+          orig_intf_map:
+            Ethernet1: Ethernet78
+            Loopback0: Loopback78
+        ARISTA79T1:
+          offset: 78
+          orig_intf_map:
+            Ethernet1: Ethernet79
+            Loopback0: Loopback79
+        ARISTA80T1:
+          offset: 79
+          orig_intf_map:
+            Ethernet1: Ethernet80
+            Loopback0: Loopback80
+        ARISTA81T1:
+          offset: 80
+          orig_intf_map:
+            Ethernet1: Ethernet81
+            Loopback0: Loopback81
+        ARISTA82T1:
+          offset: 81
+          orig_intf_map:
+            Ethernet1: Ethernet82
+            Loopback0: Loopback82
+        ARISTA83T1:
+          offset: 82
+          orig_intf_map:
+            Ethernet1: Ethernet83
+            Loopback0: Loopback83
+        ARISTA84T1:
+          offset: 83
+          orig_intf_map:
+            Ethernet1: Ethernet84
+            Loopback0: Loopback84
+        ARISTA85T1:
+          offset: 84
+          orig_intf_map:
+            Ethernet1: Ethernet85
+            Loopback0: Loopback85
+        ARISTA86T1:
+          offset: 85
+          orig_intf_map:
+            Ethernet1: Ethernet86
+            Loopback0: Loopback86
+        ARISTA87T1:
+          offset: 86
+          orig_intf_map:
+            Ethernet1: Ethernet87
+            Loopback0: Loopback87
+        ARISTA88T1:
+          offset: 87
+          orig_intf_map:
+            Ethernet1: Ethernet88
+            Loopback0: Loopback88
+        ARISTA89T1:
+          offset: 88
+          orig_intf_map:
+            Ethernet1: Ethernet89
+            Loopback0: Loopback89
+        ARISTA90T1:
+          offset: 89
+          orig_intf_map:
+            Ethernet1: Ethernet90
+            Loopback0: Loopback90
+        ARISTA91T1:
+          offset: 90
+          orig_intf_map:
+            Ethernet1: Ethernet91
+            Loopback0: Loopback91
+        ARISTA92T1:
+          offset: 91
+          orig_intf_map:
+            Ethernet1: Ethernet92
+            Loopback0: Loopback92
+        ARISTA93T1:
+          offset: 92
+          orig_intf_map:
+            Ethernet1: Ethernet93
+            Loopback0: Loopback93
+        ARISTA94T1:
+          offset: 93
+          orig_intf_map:
+            Ethernet1: Ethernet94
+            Loopback0: Loopback94
+        ARISTA95T1:
+          offset: 94
+          orig_intf_map:
+            Ethernet1: Ethernet95
+            Loopback0: Loopback95
+        ARISTA96T1:
+          offset: 95
+          orig_intf_map:
+            Ethernet1: Ethernet96
+            Loopback0: Loopback96
+        ARISTA97T1:
+          offset: 96
+          orig_intf_map:
+            Ethernet1: Ethernet97
+            Loopback0: Loopback97
+        ARISTA98T1:
+          offset: 97
+          orig_intf_map:
+            Ethernet1: Ethernet98
+            Loopback0: Loopback98
+        ARISTA99T1:
+          offset: 98
+          orig_intf_map:
+            Ethernet1: Ethernet99
+            Loopback0: Loopback99
+        ARISTA100T1:
+          offset: 99
+          orig_intf_map:
+            Ethernet1: Ethernet100
+            Loopback0: Loopback100
+        ARISTA101T1:
+          offset: 100
+          orig_intf_map:
+            Ethernet1: Ethernet101
+            Loopback0: Loopback101
+        ARISTA102T1:
+          offset: 101
+          orig_intf_map:
+            Ethernet1: Ethernet102
+            Loopback0: Loopback102
+        ARISTA103T1:
+          offset: 102
+          orig_intf_map:
+            Ethernet1: Ethernet103
+            Loopback0: Loopback103
+        ARISTA104T1:
+          offset: 103
+          orig_intf_map:
+            Ethernet1: Ethernet104
+            Loopback0: Loopback104
+        ARISTA105T1:
+          offset: 104
+          orig_intf_map:
+            Ethernet1: Ethernet105
+            Loopback0: Loopback105
+        ARISTA106T1:
+          offset: 105
+          orig_intf_map:
+            Ethernet1: Ethernet106
+            Loopback0: Loopback106
+        ARISTA107T1:
+          offset: 106
+          orig_intf_map:
+            Ethernet1: Ethernet107
+            Loopback0: Loopback107
+        ARISTA108T1:
+          offset: 107
+          orig_intf_map:
+            Ethernet1: Ethernet108
+            Loopback0: Loopback108
+        ARISTA109T1:
+          offset: 108
+          orig_intf_map:
+            Ethernet1: Ethernet109
+            Loopback0: Loopback109
+        ARISTA110T1:
+          offset: 109
+          orig_intf_map:
+            Ethernet1: Ethernet110
+            Loopback0: Loopback110
+        ARISTA111T1:
+          offset: 110
+          orig_intf_map:
+            Ethernet1: Ethernet111
+            Loopback0: Loopback111
+        ARISTA112T1:
+          offset: 111
+          orig_intf_map:
+            Ethernet1: Ethernet112
+            Loopback0: Loopback112
+        ARISTA113T1:
+          offset: 112
+          orig_intf_map:
+            Ethernet1: Ethernet113
+            Loopback0: Loopback113
+        ARISTA114T1:
+          offset: 113
+          orig_intf_map:
+            Ethernet1: Ethernet114
+            Loopback0: Loopback114
+        ARISTA115T1:
+          offset: 114
+          orig_intf_map:
+            Ethernet1: Ethernet115
+            Loopback0: Loopback115
+        ARISTA116T1:
+          offset: 115
+          orig_intf_map:
+            Ethernet1: Ethernet116
+            Loopback0: Loopback116
+        ARISTA117T1:
+          offset: 116
+          orig_intf_map:
+            Ethernet1: Ethernet117
+            Loopback0: Loopback117
+        ARISTA118T1:
+          offset: 117
+          orig_intf_map:
+            Ethernet1: Ethernet118
+            Loopback0: Loopback118
+        ARISTA119T1:
+          offset: 118
+          orig_intf_map:
+            Ethernet1: Ethernet119
+            Loopback0: Loopback119
+        ARISTA120T1:
+          offset: 119
+          orig_intf_map:
+            Ethernet1: Ethernet120
+            Loopback0: Loopback120
+        ARISTA121T1:
+          offset: 120
+          orig_intf_map:
+            Ethernet1: Ethernet121
+            Loopback0: Loopback121
+        ARISTA122T1:
+          offset: 121
+          orig_intf_map:
+            Ethernet1: Ethernet122
+            Loopback0: Loopback122
+        ARISTA123T1:
+          offset: 122
+          orig_intf_map:
+            Ethernet1: Ethernet123
+            Loopback0: Loopback123
+        ARISTA124T1:
+          offset: 123
+          orig_intf_map:
+            Ethernet1: Ethernet124
+            Loopback0: Loopback124
+        ARISTA125T1:
+          offset: 124
+          orig_intf_map:
+            Ethernet1: Ethernet125
+            Loopback0: Loopback125
+        ARISTA126T1:
+          offset: 125
+          orig_intf_map:
+            Ethernet1: Ethernet126
+            Loopback0: Loopback126
+    ARISTA127T1:
+      properties:
+        - common
+        - leaf
+      vrf:
+        ARISTA127T1:
+          Vlan2126:
+            ipv4: 10.10.247.96/31
+            ipv6: fc0a::160/127
+          Ethernet1:
+            ipv4: 10.0.0.253/31
+            ipv6: fc00::1fa/126
+          Loopback1:
+            ipv4: 100.1.0.127/32
+            ipv6: 2064:100:0:7f::/128
+        ARISTA128T1:
+          Vlan2127:
+            ipv4: 10.10.247.98/31
+            ipv6: fc0a::162/127
+          Ethernet2:
+            ipv4: 10.0.0.255/31
+            ipv6: fc00::1fe/126
+          Loopback2:
+            ipv4: 100.1.0.128/32
+            ipv6: 2064:100:0:80::/128
+      bgp:
+        asn: 4200100127
+      intf_mapping:
+        ARISTA127T1:
+          offset: 0
+          orig_intf_map:
+            Ethernet1: Ethernet1
+            Loopback0: Loopback1
+        ARISTA128T1:
+          offset: 1
+          orig_intf_map:
+            Ethernet1: Ethernet2
+            Loopback0: Loopback2
+    ARISTA01PT1:
+      properties:
+        - common
+        - peer-leaf
+      vrf:
+        ARISTA01PT1:
+          Vlan2128:
+            ipv4: 10.10.247.100/31
+            ipv6: fc0a::164/127
+          Ethernet1:
+            ipv4: 10.0.1.1/31
+            ipv6: fc00::202/126
+          Loopback1:
+            ipv4: 100.1.0.129/32
+            ipv6: 2064:100:0:81::/128
+        ARISTA02PT1:
+          Vlan2129:
+            ipv4: 10.10.247.102/31
+            ipv6: fc0a::166/127
+          Ethernet2:
+            ipv4: 10.0.1.3/31
+            ipv6: fc00::206/126
+          Loopback2:
+            ipv4: 100.1.0.130/32
+            ipv6: 2064:100:0:82::/128
+      bgp:
+        asn: 65001
+      intf_mapping:
+        ARISTA01PT1:
+          offset: 0
+          orig_intf_map:
+            Ethernet1: Ethernet1
+            Loopback0: Loopback1
+        ARISTA02PT1:
+          offset: 1
+          orig_intf_map:
+            Ethernet1: Ethernet2
+            Loopback0: Loopback2
+  convergence_mapping:
+    ARISTA01T1:
+      - ARISTA01T1
+      - ARISTA02T1
+      - ARISTA03T1
+      - ARISTA04T1
+      - ARISTA05T1
+      - ARISTA06T1
+      - ARISTA07T1
+      - ARISTA08T1
+      - ARISTA09T1
+      - ARISTA10T1
+      - ARISTA11T1
+      - ARISTA12T1
+      - ARISTA13T1
+      - ARISTA14T1
+      - ARISTA15T1
+      - ARISTA16T1
+      - ARISTA17T1
+      - ARISTA18T1
+      - ARISTA19T1
+      - ARISTA20T1
+      - ARISTA21T1
+      - ARISTA22T1
+      - ARISTA23T1
+      - ARISTA24T1
+      - ARISTA25T1
+      - ARISTA26T1
+      - ARISTA27T1
+      - ARISTA28T1
+      - ARISTA29T1
+      - ARISTA30T1
+      - ARISTA31T1
+      - ARISTA32T1
+      - ARISTA33T1
+      - ARISTA34T1
+      - ARISTA35T1
+      - ARISTA36T1
+      - ARISTA37T1
+      - ARISTA38T1
+      - ARISTA39T1
+      - ARISTA40T1
+      - ARISTA41T1
+      - ARISTA42T1
+      - ARISTA43T1
+      - ARISTA44T1
+      - ARISTA45T1
+      - ARISTA46T1
+      - ARISTA47T1
+      - ARISTA48T1
+      - ARISTA49T1
+      - ARISTA50T1
+      - ARISTA51T1
+      - ARISTA52T1
+      - ARISTA53T1
+      - ARISTA54T1
+      - ARISTA55T1
+      - ARISTA56T1
+      - ARISTA57T1
+      - ARISTA58T1
+      - ARISTA59T1
+      - ARISTA60T1
+      - ARISTA61T1
+      - ARISTA62T1
+      - ARISTA63T1
+      - ARISTA64T1
+      - ARISTA65T1
+      - ARISTA66T1
+      - ARISTA67T1
+      - ARISTA68T1
+      - ARISTA69T1
+      - ARISTA70T1
+      - ARISTA71T1
+      - ARISTA72T1
+      - ARISTA73T1
+      - ARISTA74T1
+      - ARISTA75T1
+      - ARISTA76T1
+      - ARISTA77T1
+      - ARISTA78T1
+      - ARISTA79T1
+      - ARISTA80T1
+      - ARISTA81T1
+      - ARISTA82T1
+      - ARISTA83T1
+      - ARISTA84T1
+      - ARISTA85T1
+      - ARISTA86T1
+      - ARISTA87T1
+      - ARISTA88T1
+      - ARISTA89T1
+      - ARISTA90T1
+      - ARISTA91T1
+      - ARISTA92T1
+      - ARISTA93T1
+      - ARISTA94T1
+      - ARISTA95T1
+      - ARISTA96T1
+      - ARISTA97T1
+      - ARISTA98T1
+      - ARISTA99T1
+      - ARISTA100T1
+      - ARISTA101T1
+      - ARISTA102T1
+      - ARISTA103T1
+      - ARISTA104T1
+      - ARISTA105T1
+      - ARISTA106T1
+      - ARISTA107T1
+      - ARISTA108T1
+      - ARISTA109T1
+      - ARISTA110T1
+      - ARISTA111T1
+      - ARISTA112T1
+      - ARISTA113T1
+      - ARISTA114T1
+      - ARISTA115T1
+      - ARISTA116T1
+      - ARISTA117T1
+      - ARISTA118T1
+      - ARISTA119T1
+      - ARISTA120T1
+      - ARISTA121T1
+      - ARISTA122T1
+      - ARISTA123T1
+      - ARISTA124T1
+      - ARISTA125T1
+      - ARISTA126T1
+    ARISTA127T1:
+      - ARISTA127T1
+      - ARISTA128T1
+    ARISTA01PT1:
+      - ARISTA01PT1
+      - ARISTA02PT1
+  interface_index_mapping:
+    ARISTA01T1:
+      - 0
+    ARISTA02T1:
+      - 1
+    ARISTA03T1:
+      - 2
+    ARISTA04T1:
+      - 3
+    ARISTA05T1:
+      - 4
+    ARISTA06T1:
+      - 5
+    ARISTA07T1:
+      - 6
+    ARISTA08T1:
+      - 7
+    ARISTA09T1:
+      - 8
+    ARISTA10T1:
+      - 9
+    ARISTA11T1:
+      - 10
+    ARISTA12T1:
+      - 11
+    ARISTA13T1:
+      - 12
+    ARISTA14T1:
+      - 13
+    ARISTA15T1:
+      - 14
+    ARISTA16T1:
+      - 15
+    ARISTA17T1:
+      - 16
+    ARISTA18T1:
+      - 17
+    ARISTA19T1:
+      - 18
+    ARISTA20T1:
+      - 19
+    ARISTA21T1:
+      - 20
+    ARISTA22T1:
+      - 21
+    ARISTA23T1:
+      - 22
+    ARISTA24T1:
+      - 23
+    ARISTA25T1:
+      - 24
+    ARISTA26T1:
+      - 25
+    ARISTA27T1:
+      - 26
+    ARISTA28T1:
+      - 27
+    ARISTA29T1:
+      - 28
+    ARISTA30T1:
+      - 29
+    ARISTA31T1:
+      - 30
+    ARISTA32T1:
+      - 31
+    ARISTA33T1:
+      - 32
+    ARISTA34T1:
+      - 33
+    ARISTA35T1:
+      - 34
+    ARISTA36T1:
+      - 35
+    ARISTA37T1:
+      - 36
+    ARISTA38T1:
+      - 37
+    ARISTA39T1:
+      - 38
+    ARISTA40T1:
+      - 39
+    ARISTA41T1:
+      - 40
+    ARISTA42T1:
+      - 41
+    ARISTA43T1:
+      - 42
+    ARISTA44T1:
+      - 43
+    ARISTA45T1:
+      - 44
+    ARISTA46T1:
+      - 45
+    ARISTA47T1:
+      - 46
+    ARISTA48T1:
+      - 47
+    ARISTA49T1:
+      - 48
+    ARISTA50T1:
+      - 49
+    ARISTA51T1:
+      - 50
+    ARISTA52T1:
+      - 51
+    ARISTA53T1:
+      - 52
+    ARISTA54T1:
+      - 53
+    ARISTA55T1:
+      - 54
+    ARISTA56T1:
+      - 55
+    ARISTA57T1:
+      - 56
+    ARISTA58T1:
+      - 57
+    ARISTA59T1:
+      - 58
+    ARISTA60T1:
+      - 59
+    ARISTA61T1:
+      - 60
+    ARISTA62T1:
+      - 61
+    ARISTA63T1:
+      - 62
+    ARISTA64T1:
+      - 63
+    ARISTA65T1:
+      - 64
+    ARISTA66T1:
+      - 65
+    ARISTA67T1:
+      - 66
+    ARISTA68T1:
+      - 67
+    ARISTA69T1:
+      - 68
+    ARISTA70T1:
+      - 69
+    ARISTA71T1:
+      - 70
+    ARISTA72T1:
+      - 71
+    ARISTA73T1:
+      - 72
+    ARISTA74T1:
+      - 73
+    ARISTA75T1:
+      - 74
+    ARISTA76T1:
+      - 75
+    ARISTA77T1:
+      - 76
+    ARISTA78T1:
+      - 77
+    ARISTA79T1:
+      - 78
+    ARISTA80T1:
+      - 79
+    ARISTA81T1:
+      - 80
+    ARISTA82T1:
+      - 81
+    ARISTA83T1:
+      - 82
+    ARISTA84T1:
+      - 83
+    ARISTA85T1:
+      - 84
+    ARISTA86T1:
+      - 85
+    ARISTA87T1:
+      - 86
+    ARISTA88T1:
+      - 87
+    ARISTA89T1:
+      - 88
+    ARISTA90T1:
+      - 89
+    ARISTA91T1:
+      - 90
+    ARISTA92T1:
+      - 91
+    ARISTA93T1:
+      - 92
+    ARISTA94T1:
+      - 93
+    ARISTA95T1:
+      - 94
+    ARISTA96T1:
+      - 95
+    ARISTA97T1:
+      - 96
+    ARISTA98T1:
+      - 97
+    ARISTA99T1:
+      - 98
+    ARISTA100T1:
+      - 99
+    ARISTA101T1:
+      - 100
+    ARISTA102T1:
+      - 101
+    ARISTA103T1:
+      - 102
+    ARISTA104T1:
+      - 103
+    ARISTA105T1:
+      - 104
+    ARISTA106T1:
+      - 105
+    ARISTA107T1:
+      - 106
+    ARISTA108T1:
+      - 107
+    ARISTA109T1:
+      - 108
+    ARISTA110T1:
+      - 109
+    ARISTA111T1:
+      - 110
+    ARISTA112T1:
+      - 111
+    ARISTA113T1:
+      - 112
+    ARISTA114T1:
+      - 113
+    ARISTA115T1:
+      - 114
+    ARISTA116T1:
+      - 115
+    ARISTA117T1:
+      - 116
+    ARISTA118T1:
+      - 117
+    ARISTA119T1:
+      - 118
+    ARISTA120T1:
+      - 119
+    ARISTA121T1:
+      - 120
+    ARISTA122T1:
+      - 121
+    ARISTA123T1:
+      - 122
+    ARISTA124T1:
+      - 123
+    ARISTA125T1:
+      - 124
+    ARISTA126T1:
+      - 125
+    ARISTA127T1:
+      - 126
+    ARISTA128T1:
+      - 127
+    ARISTA01PT1:
+      - 128
+    ARISTA02PT1:
+      - 129
+  vm_offset_mapping:
+    ARISTA01T1: 0
+    ARISTA02T1: 1
+    ARISTA03T1: 2
+    ARISTA04T1: 3
+    ARISTA05T1: 4
+    ARISTA06T1: 5
+    ARISTA07T1: 6
+    ARISTA08T1: 7
+    ARISTA09T1: 8
+    ARISTA10T1: 9
+    ARISTA11T1: 10
+    ARISTA12T1: 11
+    ARISTA13T1: 12
+    ARISTA14T1: 13
+    ARISTA15T1: 14
+    ARISTA16T1: 15
+    ARISTA17T1: 16
+    ARISTA18T1: 17
+    ARISTA19T1: 18
+    ARISTA20T1: 19
+    ARISTA21T1: 20
+    ARISTA22T1: 21
+    ARISTA23T1: 22
+    ARISTA24T1: 23
+    ARISTA25T1: 24
+    ARISTA26T1: 25
+    ARISTA27T1: 26
+    ARISTA28T1: 27
+    ARISTA29T1: 28
+    ARISTA30T1: 29
+    ARISTA31T1: 30
+    ARISTA32T1: 31
+    ARISTA33T1: 32
+    ARISTA34T1: 33
+    ARISTA35T1: 34
+    ARISTA36T1: 35
+    ARISTA37T1: 36
+    ARISTA38T1: 37
+    ARISTA39T1: 38
+    ARISTA40T1: 39
+    ARISTA41T1: 40
+    ARISTA42T1: 41
+    ARISTA43T1: 42
+    ARISTA44T1: 43
+    ARISTA45T1: 44
+    ARISTA46T1: 45
+    ARISTA47T1: 46
+    ARISTA48T1: 47
+    ARISTA49T1: 48
+    ARISTA50T1: 49
+    ARISTA51T1: 50
+    ARISTA52T1: 51
+    ARISTA53T1: 52
+    ARISTA54T1: 53
+    ARISTA55T1: 54
+    ARISTA56T1: 55
+    ARISTA57T1: 56
+    ARISTA58T1: 57
+    ARISTA59T1: 58
+    ARISTA60T1: 59
+    ARISTA61T1: 60
+    ARISTA62T1: 61
+    ARISTA63T1: 62
+    ARISTA64T1: 63
+    ARISTA65T1: 64
+    ARISTA66T1: 65
+    ARISTA67T1: 66
+    ARISTA68T1: 67
+    ARISTA69T1: 68
+    ARISTA70T1: 69
+    ARISTA71T1: 70
+    ARISTA72T1: 71
+    ARISTA73T1: 72
+    ARISTA74T1: 73
+    ARISTA75T1: 74
+    ARISTA76T1: 75
+    ARISTA77T1: 76
+    ARISTA78T1: 77
+    ARISTA79T1: 78
+    ARISTA80T1: 79
+    ARISTA81T1: 80
+    ARISTA82T1: 81
+    ARISTA83T1: 82
+    ARISTA84T1: 83
+    ARISTA85T1: 84
+    ARISTA86T1: 85
+    ARISTA87T1: 86
+    ARISTA88T1: 87
+    ARISTA89T1: 88
+    ARISTA90T1: 89
+    ARISTA91T1: 90
+    ARISTA92T1: 91
+    ARISTA93T1: 92
+    ARISTA94T1: 93
+    ARISTA95T1: 94
+    ARISTA96T1: 95
+    ARISTA97T1: 96
+    ARISTA98T1: 97
+    ARISTA99T1: 98
+    ARISTA100T1: 99
+    ARISTA101T1: 100
+    ARISTA102T1: 101
+    ARISTA103T1: 102
+    ARISTA104T1: 103
+    ARISTA105T1: 104
+    ARISTA106T1: 105
+    ARISTA107T1: 106
+    ARISTA108T1: 107
+    ARISTA109T1: 108
+    ARISTA110T1: 109
+    ARISTA111T1: 110
+    ARISTA112T1: 111
+    ARISTA113T1: 112
+    ARISTA114T1: 113
+    ARISTA115T1: 114
+    ARISTA116T1: 115
+    ARISTA117T1: 116
+    ARISTA118T1: 117
+    ARISTA119T1: 118
+    ARISTA120T1: 119
+    ARISTA121T1: 120
+    ARISTA122T1: 121
+    ARISTA123T1: 122
+    ARISTA124T1: 123
+    ARISTA125T1: 124
+    ARISTA126T1: 125
+    ARISTA127T1: 126
+    ARISTA128T1: 127
+    ARISTA01PT1: 128
+    ARISTA02PT1: 129
+  ptf_backplane_addrs:
+    ARISTA01T1:
+      ipv4: 10.10.246.101/31
+      ipv6: fc0a::65/127
+      router-id: 10.10.246.101
+      vlan: 2000
+    ARISTA02T1:
+      ipv4: 10.10.246.103/31
+      ipv6: fc0a::67/127
+      router-id: 10.10.246.103
+      vlan: 2001
+    ARISTA03T1:
+      ipv4: 10.10.246.105/31
+      ipv6: fc0a::69/127
+      router-id: 10.10.246.105
+      vlan: 2002
+    ARISTA04T1:
+      ipv4: 10.10.246.107/31
+      ipv6: fc0a::6b/127
+      router-id: 10.10.246.107
+      vlan: 2003
+    ARISTA05T1:
+      ipv4: 10.10.246.109/31
+      ipv6: fc0a::6d/127
+      router-id: 10.10.246.109
+      vlan: 2004
+    ARISTA06T1:
+      ipv4: 10.10.246.111/31
+      ipv6: fc0a::6f/127
+      router-id: 10.10.246.111
+      vlan: 2005
+    ARISTA07T1:
+      ipv4: 10.10.246.113/31
+      ipv6: fc0a::71/127
+      router-id: 10.10.246.113
+      vlan: 2006
+    ARISTA08T1:
+      ipv4: 10.10.246.115/31
+      ipv6: fc0a::73/127
+      router-id: 10.10.246.115
+      vlan: 2007
+    ARISTA09T1:
+      ipv4: 10.10.246.117/31
+      ipv6: fc0a::75/127
+      router-id: 10.10.246.117
+      vlan: 2008
+    ARISTA10T1:
+      ipv4: 10.10.246.119/31
+      ipv6: fc0a::77/127
+      router-id: 10.10.246.119
+      vlan: 2009
+    ARISTA11T1:
+      ipv4: 10.10.246.121/31
+      ipv6: fc0a::79/127
+      router-id: 10.10.246.121
+      vlan: 2010
+    ARISTA12T1:
+      ipv4: 10.10.246.123/31
+      ipv6: fc0a::7b/127
+      router-id: 10.10.246.123
+      vlan: 2011
+    ARISTA13T1:
+      ipv4: 10.10.246.125/31
+      ipv6: fc0a::7d/127
+      router-id: 10.10.246.125
+      vlan: 2012
+    ARISTA14T1:
+      ipv4: 10.10.246.127/31
+      ipv6: fc0a::7f/127
+      router-id: 10.10.246.127
+      vlan: 2013
+    ARISTA15T1:
+      ipv4: 10.10.246.129/31
+      ipv6: fc0a::81/127
+      router-id: 10.10.246.129
+      vlan: 2014
+    ARISTA16T1:
+      ipv4: 10.10.246.131/31
+      ipv6: fc0a::83/127
+      router-id: 10.10.246.131
+      vlan: 2015
+    ARISTA17T1:
+      ipv4: 10.10.246.133/31
+      ipv6: fc0a::85/127
+      router-id: 10.10.246.133
+      vlan: 2016
+    ARISTA18T1:
+      ipv4: 10.10.246.135/31
+      ipv6: fc0a::87/127
+      router-id: 10.10.246.135
+      vlan: 2017
+    ARISTA19T1:
+      ipv4: 10.10.246.137/31
+      ipv6: fc0a::89/127
+      router-id: 10.10.246.137
+      vlan: 2018
+    ARISTA20T1:
+      ipv4: 10.10.246.139/31
+      ipv6: fc0a::8b/127
+      router-id: 10.10.246.139
+      vlan: 2019
+    ARISTA21T1:
+      ipv4: 10.10.246.141/31
+      ipv6: fc0a::8d/127
+      router-id: 10.10.246.141
+      vlan: 2020
+    ARISTA22T1:
+      ipv4: 10.10.246.143/31
+      ipv6: fc0a::8f/127
+      router-id: 10.10.246.143
+      vlan: 2021
+    ARISTA23T1:
+      ipv4: 10.10.246.145/31
+      ipv6: fc0a::91/127
+      router-id: 10.10.246.145
+      vlan: 2022
+    ARISTA24T1:
+      ipv4: 10.10.246.147/31
+      ipv6: fc0a::93/127
+      router-id: 10.10.246.147
+      vlan: 2023
+    ARISTA25T1:
+      ipv4: 10.10.246.149/31
+      ipv6: fc0a::95/127
+      router-id: 10.10.246.149
+      vlan: 2024
+    ARISTA26T1:
+      ipv4: 10.10.246.151/31
+      ipv6: fc0a::97/127
+      router-id: 10.10.246.151
+      vlan: 2025
+    ARISTA27T1:
+      ipv4: 10.10.246.153/31
+      ipv6: fc0a::99/127
+      router-id: 10.10.246.153
+      vlan: 2026
+    ARISTA28T1:
+      ipv4: 10.10.246.155/31
+      ipv6: fc0a::9b/127
+      router-id: 10.10.246.155
+      vlan: 2027
+    ARISTA29T1:
+      ipv4: 10.10.246.157/31
+      ipv6: fc0a::9d/127
+      router-id: 10.10.246.157
+      vlan: 2028
+    ARISTA30T1:
+      ipv4: 10.10.246.159/31
+      ipv6: fc0a::9f/127
+      router-id: 10.10.246.159
+      vlan: 2029
+    ARISTA31T1:
+      ipv4: 10.10.246.161/31
+      ipv6: fc0a::a1/127
+      router-id: 10.10.246.161
+      vlan: 2030
+    ARISTA32T1:
+      ipv4: 10.10.246.163/31
+      ipv6: fc0a::a3/127
+      router-id: 10.10.246.163
+      vlan: 2031
+    ARISTA33T1:
+      ipv4: 10.10.246.165/31
+      ipv6: fc0a::a5/127
+      router-id: 10.10.246.165
+      vlan: 2032
+    ARISTA34T1:
+      ipv4: 10.10.246.167/31
+      ipv6: fc0a::a7/127
+      router-id: 10.10.246.167
+      vlan: 2033
+    ARISTA35T1:
+      ipv4: 10.10.246.169/31
+      ipv6: fc0a::a9/127
+      router-id: 10.10.246.169
+      vlan: 2034
+    ARISTA36T1:
+      ipv4: 10.10.246.171/31
+      ipv6: fc0a::ab/127
+      router-id: 10.10.246.171
+      vlan: 2035
+    ARISTA37T1:
+      ipv4: 10.10.246.173/31
+      ipv6: fc0a::ad/127
+      router-id: 10.10.246.173
+      vlan: 2036
+    ARISTA38T1:
+      ipv4: 10.10.246.175/31
+      ipv6: fc0a::af/127
+      router-id: 10.10.246.175
+      vlan: 2037
+    ARISTA39T1:
+      ipv4: 10.10.246.177/31
+      ipv6: fc0a::b1/127
+      router-id: 10.10.246.177
+      vlan: 2038
+    ARISTA40T1:
+      ipv4: 10.10.246.179/31
+      ipv6: fc0a::b3/127
+      router-id: 10.10.246.179
+      vlan: 2039
+    ARISTA41T1:
+      ipv4: 10.10.246.181/31
+      ipv6: fc0a::b5/127
+      router-id: 10.10.246.181
+      vlan: 2040
+    ARISTA42T1:
+      ipv4: 10.10.246.183/31
+      ipv6: fc0a::b7/127
+      router-id: 10.10.246.183
+      vlan: 2041
+    ARISTA43T1:
+      ipv4: 10.10.246.185/31
+      ipv6: fc0a::b9/127
+      router-id: 10.10.246.185
+      vlan: 2042
+    ARISTA44T1:
+      ipv4: 10.10.246.187/31
+      ipv6: fc0a::bb/127
+      router-id: 10.10.246.187
+      vlan: 2043
+    ARISTA45T1:
+      ipv4: 10.10.246.189/31
+      ipv6: fc0a::bd/127
+      router-id: 10.10.246.189
+      vlan: 2044
+    ARISTA46T1:
+      ipv4: 10.10.246.191/31
+      ipv6: fc0a::bf/127
+      router-id: 10.10.246.191
+      vlan: 2045
+    ARISTA47T1:
+      ipv4: 10.10.246.193/31
+      ipv6: fc0a::c1/127
+      router-id: 10.10.246.193
+      vlan: 2046
+    ARISTA48T1:
+      ipv4: 10.10.246.195/31
+      ipv6: fc0a::c3/127
+      router-id: 10.10.246.195
+      vlan: 2047
+    ARISTA49T1:
+      ipv4: 10.10.246.197/31
+      ipv6: fc0a::c5/127
+      router-id: 10.10.246.197
+      vlan: 2048
+    ARISTA50T1:
+      ipv4: 10.10.246.199/31
+      ipv6: fc0a::c7/127
+      router-id: 10.10.246.199
+      vlan: 2049
+    ARISTA51T1:
+      ipv4: 10.10.246.201/31
+      ipv6: fc0a::c9/127
+      router-id: 10.10.246.201
+      vlan: 2050
+    ARISTA52T1:
+      ipv4: 10.10.246.203/31
+      ipv6: fc0a::cb/127
+      router-id: 10.10.246.203
+      vlan: 2051
+    ARISTA53T1:
+      ipv4: 10.10.246.205/31
+      ipv6: fc0a::cd/127
+      router-id: 10.10.246.205
+      vlan: 2052
+    ARISTA54T1:
+      ipv4: 10.10.246.207/31
+      ipv6: fc0a::cf/127
+      router-id: 10.10.246.207
+      vlan: 2053
+    ARISTA55T1:
+      ipv4: 10.10.246.209/31
+      ipv6: fc0a::d1/127
+      router-id: 10.10.246.209
+      vlan: 2054
+    ARISTA56T1:
+      ipv4: 10.10.246.211/31
+      ipv6: fc0a::d3/127
+      router-id: 10.10.246.211
+      vlan: 2055
+    ARISTA57T1:
+      ipv4: 10.10.246.213/31
+      ipv6: fc0a::d5/127
+      router-id: 10.10.246.213
+      vlan: 2056
+    ARISTA58T1:
+      ipv4: 10.10.246.215/31
+      ipv6: fc0a::d7/127
+      router-id: 10.10.246.215
+      vlan: 2057
+    ARISTA59T1:
+      ipv4: 10.10.246.217/31
+      ipv6: fc0a::d9/127
+      router-id: 10.10.246.217
+      vlan: 2058
+    ARISTA60T1:
+      ipv4: 10.10.246.219/31
+      ipv6: fc0a::db/127
+      router-id: 10.10.246.219
+      vlan: 2059
+    ARISTA61T1:
+      ipv4: 10.10.246.221/31
+      ipv6: fc0a::dd/127
+      router-id: 10.10.246.221
+      vlan: 2060
+    ARISTA62T1:
+      ipv4: 10.10.246.223/31
+      ipv6: fc0a::df/127
+      router-id: 10.10.246.223
+      vlan: 2061
+    ARISTA63T1:
+      ipv4: 10.10.246.225/31
+      ipv6: fc0a::e1/127
+      router-id: 10.10.246.225
+      vlan: 2062
+    ARISTA64T1:
+      ipv4: 10.10.246.227/31
+      ipv6: fc0a::e3/127
+      router-id: 10.10.246.227
+      vlan: 2063
+    ARISTA65T1:
+      ipv4: 10.10.246.229/31
+      ipv6: fc0a::e5/127
+      router-id: 10.10.246.229
+      vlan: 2064
+    ARISTA66T1:
+      ipv4: 10.10.246.231/31
+      ipv6: fc0a::e7/127
+      router-id: 10.10.246.231
+      vlan: 2065
+    ARISTA67T1:
+      ipv4: 10.10.246.233/31
+      ipv6: fc0a::e9/127
+      router-id: 10.10.246.233
+      vlan: 2066
+    ARISTA68T1:
+      ipv4: 10.10.246.235/31
+      ipv6: fc0a::eb/127
+      router-id: 10.10.246.235
+      vlan: 2067
+    ARISTA69T1:
+      ipv4: 10.10.246.237/31
+      ipv6: fc0a::ed/127
+      router-id: 10.10.246.237
+      vlan: 2068
+    ARISTA70T1:
+      ipv4: 10.10.246.239/31
+      ipv6: fc0a::ef/127
+      router-id: 10.10.246.239
+      vlan: 2069
+    ARISTA71T1:
+      ipv4: 10.10.246.241/31
+      ipv6: fc0a::f1/127
+      router-id: 10.10.246.241
+      vlan: 2070
+    ARISTA72T1:
+      ipv4: 10.10.246.243/31
+      ipv6: fc0a::f3/127
+      router-id: 10.10.246.243
+      vlan: 2071
+    ARISTA73T1:
+      ipv4: 10.10.246.245/31
+      ipv6: fc0a::f5/127
+      router-id: 10.10.246.245
+      vlan: 2072
+    ARISTA74T1:
+      ipv4: 10.10.246.247/31
+      ipv6: fc0a::f7/127
+      router-id: 10.10.246.247
+      vlan: 2073
+    ARISTA75T1:
+      ipv4: 10.10.246.249/31
+      ipv6: fc0a::f9/127
+      router-id: 10.10.246.249
+      vlan: 2074
+    ARISTA76T1:
+      ipv4: 10.10.246.251/31
+      ipv6: fc0a::fb/127
+      router-id: 10.10.246.251
+      vlan: 2075
+    ARISTA77T1:
+      ipv4: 10.10.246.253/31
+      ipv6: fc0a::fd/127
+      router-id: 10.10.246.253
+      vlan: 2076
+    ARISTA78T1:
+      ipv4: 10.10.246.255/31
+      ipv6: fc0a::ff/127
+      router-id: 10.10.246.255
+      vlan: 2077
+    ARISTA79T1:
+      ipv4: 10.10.247.1/31
+      ipv6: fc0a::101/127
+      router-id: 10.10.247.1
+      vlan: 2078
+    ARISTA80T1:
+      ipv4: 10.10.247.3/31
+      ipv6: fc0a::103/127
+      router-id: 10.10.247.3
+      vlan: 2079
+    ARISTA81T1:
+      ipv4: 10.10.247.5/31
+      ipv6: fc0a::105/127
+      router-id: 10.10.247.5
+      vlan: 2080
+    ARISTA82T1:
+      ipv4: 10.10.247.7/31
+      ipv6: fc0a::107/127
+      router-id: 10.10.247.7
+      vlan: 2081
+    ARISTA83T1:
+      ipv4: 10.10.247.9/31
+      ipv6: fc0a::109/127
+      router-id: 10.10.247.9
+      vlan: 2082
+    ARISTA84T1:
+      ipv4: 10.10.247.11/31
+      ipv6: fc0a::10b/127
+      router-id: 10.10.247.11
+      vlan: 2083
+    ARISTA85T1:
+      ipv4: 10.10.247.13/31
+      ipv6: fc0a::10d/127
+      router-id: 10.10.247.13
+      vlan: 2084
+    ARISTA86T1:
+      ipv4: 10.10.247.15/31
+      ipv6: fc0a::10f/127
+      router-id: 10.10.247.15
+      vlan: 2085
+    ARISTA87T1:
+      ipv4: 10.10.247.17/31
+      ipv6: fc0a::111/127
+      router-id: 10.10.247.17
+      vlan: 2086
+    ARISTA88T1:
+      ipv4: 10.10.247.19/31
+      ipv6: fc0a::113/127
+      router-id: 10.10.247.19
+      vlan: 2087
+    ARISTA89T1:
+      ipv4: 10.10.247.21/31
+      ipv6: fc0a::115/127
+      router-id: 10.10.247.21
+      vlan: 2088
+    ARISTA90T1:
+      ipv4: 10.10.247.23/31
+      ipv6: fc0a::117/127
+      router-id: 10.10.247.23
+      vlan: 2089
+    ARISTA91T1:
+      ipv4: 10.10.247.25/31
+      ipv6: fc0a::119/127
+      router-id: 10.10.247.25
+      vlan: 2090
+    ARISTA92T1:
+      ipv4: 10.10.247.27/31
+      ipv6: fc0a::11b/127
+      router-id: 10.10.247.27
+      vlan: 2091
+    ARISTA93T1:
+      ipv4: 10.10.247.29/31
+      ipv6: fc0a::11d/127
+      router-id: 10.10.247.29
+      vlan: 2092
+    ARISTA94T1:
+      ipv4: 10.10.247.31/31
+      ipv6: fc0a::11f/127
+      router-id: 10.10.247.31
+      vlan: 2093
+    ARISTA95T1:
+      ipv4: 10.10.247.33/31
+      ipv6: fc0a::121/127
+      router-id: 10.10.247.33
+      vlan: 2094
+    ARISTA96T1:
+      ipv4: 10.10.247.35/31
+      ipv6: fc0a::123/127
+      router-id: 10.10.247.35
+      vlan: 2095
+    ARISTA97T1:
+      ipv4: 10.10.247.37/31
+      ipv6: fc0a::125/127
+      router-id: 10.10.247.37
+      vlan: 2096
+    ARISTA98T1:
+      ipv4: 10.10.247.39/31
+      ipv6: fc0a::127/127
+      router-id: 10.10.247.39
+      vlan: 2097
+    ARISTA99T1:
+      ipv4: 10.10.247.41/31
+      ipv6: fc0a::129/127
+      router-id: 10.10.247.41
+      vlan: 2098
+    ARISTA100T1:
+      ipv4: 10.10.247.43/31
+      ipv6: fc0a::12b/127
+      router-id: 10.10.247.43
+      vlan: 2099
+    ARISTA101T1:
+      ipv4: 10.10.247.45/31
+      ipv6: fc0a::12d/127
+      router-id: 10.10.247.45
+      vlan: 2100
+    ARISTA102T1:
+      ipv4: 10.10.247.47/31
+      ipv6: fc0a::12f/127
+      router-id: 10.10.247.47
+      vlan: 2101
+    ARISTA103T1:
+      ipv4: 10.10.247.49/31
+      ipv6: fc0a::131/127
+      router-id: 10.10.247.49
+      vlan: 2102
+    ARISTA104T1:
+      ipv4: 10.10.247.51/31
+      ipv6: fc0a::133/127
+      router-id: 10.10.247.51
+      vlan: 2103
+    ARISTA105T1:
+      ipv4: 10.10.247.53/31
+      ipv6: fc0a::135/127
+      router-id: 10.10.247.53
+      vlan: 2104
+    ARISTA106T1:
+      ipv4: 10.10.247.55/31
+      ipv6: fc0a::137/127
+      router-id: 10.10.247.55
+      vlan: 2105
+    ARISTA107T1:
+      ipv4: 10.10.247.57/31
+      ipv6: fc0a::139/127
+      router-id: 10.10.247.57
+      vlan: 2106
+    ARISTA108T1:
+      ipv4: 10.10.247.59/31
+      ipv6: fc0a::13b/127
+      router-id: 10.10.247.59
+      vlan: 2107
+    ARISTA109T1:
+      ipv4: 10.10.247.61/31
+      ipv6: fc0a::13d/127
+      router-id: 10.10.247.61
+      vlan: 2108
+    ARISTA110T1:
+      ipv4: 10.10.247.63/31
+      ipv6: fc0a::13f/127
+      router-id: 10.10.247.63
+      vlan: 2109
+    ARISTA111T1:
+      ipv4: 10.10.247.65/31
+      ipv6: fc0a::141/127
+      router-id: 10.10.247.65
+      vlan: 2110
+    ARISTA112T1:
+      ipv4: 10.10.247.67/31
+      ipv6: fc0a::143/127
+      router-id: 10.10.247.67
+      vlan: 2111
+    ARISTA113T1:
+      ipv4: 10.10.247.69/31
+      ipv6: fc0a::145/127
+      router-id: 10.10.247.69
+      vlan: 2112
+    ARISTA114T1:
+      ipv4: 10.10.247.71/31
+      ipv6: fc0a::147/127
+      router-id: 10.10.247.71
+      vlan: 2113
+    ARISTA115T1:
+      ipv4: 10.10.247.73/31
+      ipv6: fc0a::149/127
+      router-id: 10.10.247.73
+      vlan: 2114
+    ARISTA116T1:
+      ipv4: 10.10.247.75/31
+      ipv6: fc0a::14b/127
+      router-id: 10.10.247.75
+      vlan: 2115
+    ARISTA117T1:
+      ipv4: 10.10.247.77/31
+      ipv6: fc0a::14d/127
+      router-id: 10.10.247.77
+      vlan: 2116
+    ARISTA118T1:
+      ipv4: 10.10.247.79/31
+      ipv6: fc0a::14f/127
+      router-id: 10.10.247.79
+      vlan: 2117
+    ARISTA119T1:
+      ipv4: 10.10.247.81/31
+      ipv6: fc0a::151/127
+      router-id: 10.10.247.81
+      vlan: 2118
+    ARISTA120T1:
+      ipv4: 10.10.247.83/31
+      ipv6: fc0a::153/127
+      router-id: 10.10.247.83
+      vlan: 2119
+    ARISTA121T1:
+      ipv4: 10.10.247.85/31
+      ipv6: fc0a::155/127
+      router-id: 10.10.247.85
+      vlan: 2120
+    ARISTA122T1:
+      ipv4: 10.10.247.87/31
+      ipv6: fc0a::157/127
+      router-id: 10.10.247.87
+      vlan: 2121
+    ARISTA123T1:
+      ipv4: 10.10.247.89/31
+      ipv6: fc0a::159/127
+      router-id: 10.10.247.89
+      vlan: 2122
+    ARISTA124T1:
+      ipv4: 10.10.247.91/31
+      ipv6: fc0a::15b/127
+      router-id: 10.10.247.91
+      vlan: 2123
+    ARISTA125T1:
+      ipv4: 10.10.247.93/31
+      ipv6: fc0a::15d/127
+      router-id: 10.10.247.93
+      vlan: 2124
+    ARISTA126T1:
+      ipv4: 10.10.247.95/31
+      ipv6: fc0a::15f/127
+      router-id: 10.10.247.95
+      vlan: 2125
+    ARISTA127T1:
+      ipv4: 10.10.247.97/31
+      ipv6: fc0a::161/127
+      router-id: 10.10.247.97
+      vlan: 2126
+    ARISTA128T1:
+      ipv4: 10.10.247.99/31
+      ipv6: fc0a::163/127
+      router-id: 10.10.247.99
+      vlan: 2127
+    ARISTA01PT1:
+      ipv4: 10.10.247.101/31
+      ipv6: fc0a::165/127
+      router-id: 10.10.247.101
+      vlan: 2128
+    ARISTA02PT1:
+      ipv4: 10.10.247.103/31
+      ipv6: fc0a::167/127
+      router-id: 10.10.247.103
+      vlan: 2129
