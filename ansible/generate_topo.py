@@ -262,7 +262,7 @@ class VM:
         self.link_id = link_id
         self.vm_offset = vm_id
         self.ip_offset = vm_id if ip_offset is None else ip_offset
-        self.name = f"ARISTA{name_id:02d}{self.role.upper()}"
+        self.name = "ARISTA{:02d}{}".format(name_id, self.role.upper())
         self.tornum = tornum
 
         # VLAN configuration
